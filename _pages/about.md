@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "Neuro Data Design"
+excerpt: "Neuro Data Design"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Neuro Data Design (NDD)
 
 NDD is a year long project-based course where students work in teams of four to eight
 students.  I offer three different levels,   2xx,  4xx, and 6xx.  The 2xx ensures that
