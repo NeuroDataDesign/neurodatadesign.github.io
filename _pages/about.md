@@ -8,7 +8,56 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+### Credits
+
+The 4xx and 6xx course will provide 4 design-credits both semesters. 
+The 2xx level is 3 credits both semesters.
+
+### Course Requirements
+
+Admittance to this course requires approval from the instructor, to ensure the students in the course are sufficient diverse along a number of dimensions. To gain admittance, you must:
+
+1. Be more excited about this course than any other academic endeavor for the year. Nobody is required to teach or take this course, and since so many people want to take it each year, preference is given to those that are most passionate about the material.
+2. In practice, people commonly spend up to 20 hrs per week in this class, or more.  It is often rated one of the most challenging courses, so please consider that when making your course schedule. Priority will be given to students that certainly have room to be successful in the course.
+3. For the 4xx and 6xx class, some background in numerical programming is required.
+4. Because this course is based on team projects, entire teams are approved all at once. You can join the course slack channel here to chat with other potential team mates.
+5. Send the CV and transcript of all members of your planned team to me for joint approval.
+
+
+### Background
+
+This course is based on my experience as an academic, and entrepreneur, an advisor, and an instructor. It is designed to be the best class you'll ever take. You will learn (by doing and getting feedback) the skills that I have found particularly useful in my endeavors. It will be organized into weekly sprints. Weekly progress will be reported documenting goals towards your team sprints, with sprint demo's to happen at the close of each sprint. Each team will be graded jointly on the basis of meeting the sprint goals, as well as providing clear and concise weekly progress reports.
+
+The main "skills" you will learn in this class include:
+
+- How to choose a project *significant* for the world, *feasible* for you, and that you are intrinsically motivated to complete (see [https://bitsandbrains.io/2018/08/31/sig-and-feas.html]).
+- How to scope work so that you can achieve weekly progress towards quarterly goals (see [https://www.mindtools.com/pages/article/smart-goals.htm]).
+- How to effectively communicate technical content.
+- How to generate publication quality figures (see [figure checklist](https://bitsandbrains.io/2018/09/08/figures.html)).
+- How to complete a wide set of data science tasks, spanning from data wrangling to statistical modeling.
+- How to peacefully and productively work with a diverse team of passionate individuals.
+
+
+### Potential Projects
+
+The set of approved open-source repositories to contribute to include:
+
+- [scipy](https://www.scipy.org/scipylib/index.html)
+- [sklearn](https://scikit-learn.org/stable/)
+- [networkx](https://networkx.github.io/)
+- [skimage](https://scikit-image.org/docs/dev/api/skimage.html)
+- [dipy](https://dipy.org/)
+- [mne](https://martinos.org/mne/stable/index.html)
+
+
+### Datasets
+
+This course requires some analysis of data, the only approved dataset is the 
+ [https://healthybrainnetwork.org/](Healthy Brain Network).  If for some reason you believe your tool cannot be applied to these data, please discuss with the TA.
+
+ ### [Code of Conduct](https://neurodata.io/about/agreements/#respect)
+
+
 
 A data-driven personal website
 ======
@@ -19,11 +68,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
