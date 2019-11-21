@@ -85,7 +85,6 @@ Quantitative teaching evaluations for all NeuroData Design courses is shown belo
 
 
 
-
 ### Open Source Projects
 
 The set of approved open-source repositories to contribute to include:
@@ -104,10 +103,3 @@ This course requires some analysis of data, the only approved dataset is the
  [https://healthybrainnetwork.org/](Healthy Brain Network).  If for some reason you believe your tool cannot be applied to these data, please discuss with the TA.
 
 
-
- - Weekly stuff 
- - Calendar 
- - Weekly presentations link 
- - Propoposal link 
- - PR guidelines
- - Useful links
