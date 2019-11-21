@@ -48,9 +48,4 @@ We have class three times per week.  About once per week I provide a lecture on 
 | **Mean** | **14.5**   | **4.70**|**4.09**|**3.95**|**4.85** |**4.16**|**4.16**|
 
 
- - Weekly stuff 
- - Calendar 
- - Weekly presentations link 
- - Propoposal link 
- - PR guidelines
- - Useful links
+
