@@ -35,13 +35,13 @@ The following teams should attend:
 TAs/Jovo will meet with each team individually. 
 On the day you present you should have a single slide based on the above guidelines
  
- ## Friday, Hodson
- Everyone should attend and arrive before 12PM. 
- 
- Jovo will lecture at the start of class. 
- 
- Every team will have one team member present for everyone. Each person in the team should contribute one slide, and the 
- slide should be presented in less than 1 minute. These can be the same results from the Monday/Wednesday meeting, updated
- appropriately based on feedback from earlier in the week and progess made since then. 
+## Friday, Hodson
+Everyone should attend and arrive before 12PM. 
+
+Jovo will lecture at the start of class. 
+
+Every team will have one team member present for everyone. Each person in the team should contribute one slide, and the 
+slide should be presented in less than 1 minute. These can be the same results from the Monday/Wednesday meeting, updated
+appropriately based on feedback from earlier in the week and progess made since then. 
 
 ## Fill out weekly feedback form
