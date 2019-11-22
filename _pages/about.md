@@ -38,7 +38,7 @@ The main "skills" you will learn in this class include:
 - How to peacefully and productively work with a diverse team of passionate individuals.
 
 
- ### [Code of Conduct](https://neurodata.io/about/agreements/#respect)
+### [Code of Conduct](https://neurodata.io/about/agreements/#respect)
 
 
 ### Course Summary
