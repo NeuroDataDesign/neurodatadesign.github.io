@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Useful links"
+title: "Useful Links"
 permalink: /links/
 author_profile: true
 ---
