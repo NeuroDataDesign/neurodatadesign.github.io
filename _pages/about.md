@@ -103,3 +103,41 @@ This course requires some analysis of data, the only approved dataset is the
  [https://healthybrainnetwork.org/](Healthy Brain Network).  If for some reason you believe your tool cannot be applied to these data, please discuss with the TA.
 
 
+### Communication
+
+This class communicates largely in Slack. Please join our Slack channel at http://spiralscience.slack.com/signup to get involved. Regular updates are provided in Slack, and the instructors will assume you have received them. TA will answer questions from slack approximately within 48 hours.
+
+### External Help
+
+Jovo and TA are typically available after class and through Slack to provide feedback/guidance as requested.
+
+### Grading
+
+In general, it is expected that all students will be most excited about this class, and therefore invest a minimum of 12 hours of effort per week in the fall, and over 20 hours of effort per week in the spring. Assuming you at least convince jovo and TAs of this level of effort, and address their weekly feedback, you should expect an A. Anybody in danger of not receiving an A will be told so by jovo, and given clear requirements in order to bring your grade back up to an A. Anybody not receiving an A in the first semester will not be invited back for the second semester.
+
+#### Weekly
+
+Each week students will be graded on the degree of completion of their deliverables, typically including both a qualitative and quantitative result. After your presentations, instructors will provide detailed feedback on your slides, with instructions on how to improve them. Grades will be provided on the basis of your ability to complete the tasks you set out to perform, and update slides on the basis of other's input. In addition, slides should have research artifacts for each task (whether completed or not).
+
+#### Sprint Deliverable Grades
+
+The sprint deliverables will be graded as follows. Jovo will send a link to your webpage to a technically competent student or collaborator, as well as instructions. That person will attempt to run the tool from start to finish. If she is unable to complete the analysis, you get a zero. If she is able to complete it, but gets results dramatically different from what she should have gotten, you get a 50%. If she is able to complete it, and gets answers that are reasonable, you get a 100%.
+
+### Feedback
+
+Steven Covey, author of "Seven Habits", states that the 7th habit is "sharpening our sword", which means (for this class), getting feedback and seriously considering it. Every person involved in the class will therefore be required to provide feedback to others, including the instructor. Students will also identify properties of the class which gruntle or disgruntle them, so that we may make adjustments.
+
+### ABET Student Outcomes
+
+(a1) Apply knowledge of advanced mathematics (calculus, differential equations, linear algebra, statistics) to problems at the interface of engineering, biology and medicine
+(a5) Mathematically model and simulate biological systems using computers
+(b1) Formulate hypothesis for experiments, including those on living systems
+(b4) Display, describe, summarize and interpret experimental results in a lab report
+(c1) Identify a desired need and define the biomedical engineering problem to be solved
+(c2) Determine the constraints to the problem and assess the successful likelihood for different approaches
+(d1) Communicate opinions, viewpoints and expertise with other team members
+(d2) Understand team goals and assume and fulfill individual responsibilities within the team
+(e3) Solve problem using experimental, mathematical and/or computational tools
+(g1) Synthesize, summarize and explain technical content in a written report
+(g2) Synthesize, summarize and explain technical content in an oral presentation
+(k1) Gain proficiency in computer simulations and mathematical analysis tools
