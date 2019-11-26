@@ -9,6 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+## The following publications have resulted from student's work in past years of Neuro Data Design:
 
 {% include base_path %}
 
