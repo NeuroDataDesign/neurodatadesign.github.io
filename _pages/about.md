@@ -38,7 +38,7 @@ The main "skills" you will learn in this class include:
 - How to peacefully and productively work with a diverse team of passionate individuals.
 
 
- ### [Code of Conduct](https://neurodata.io/about/agreements/#respect)
+### [Code of Conduct](https://neurodata.io/about/agreements/#respect)
 
 
 ### Course Summary
@@ -59,10 +59,10 @@ course is  divided into quarters:
 
 ### Course structure
 
-- **Quarter 1 (first month of class)** The first month of class is devoted to _self-understanding_. Specifically, the students are required to form teams, and choose a project.  The choice of project is jointly driven by: (i) significance, (ii) feasibility, and (iii) intrinsic motivation.  We propose a number of existing brain science challenge problems and state-of-the-art datasets. Each team is required to choose a dataset, problem, and approach to solve it in this month.  We provide (at least) weekly feedback to help guide the teams to choosing signficant projects that are feasible for them that they are intrinsically motivated to solve.  At the end of the month, each team is required to submit  a two-page _research proposal_ describing their plan for the year, including (1) a neurobiological question to investigate for the year, and (2) a computational approach to solving it.  In addition, each individual student must identify a _github issue_ in a widely used open-source repository that they will resolve as part of their final project for the fall semester.  Specifically, this will consist of making a _pull request_ (PR) to one of the approved repositories, and getting that pull request approved and merged.  The PR can be as simple as updating documentation, fixing a bug, or as complex as contributing a new algorithm.
-- **Quarter 2 (rest of fall semester)** This quarter is devoted to learning _basic data science skills_.  The deliverables include (1) for each individual,  a link to a merged PR  made to a widely used open source repository, (2) a link to an online document with the title and abstract  for a manuscript you plan to complete in the spring, (3) a link to an electronic notebook---including both code and text---demonstrating functionality of the analysis (pipeline) for your manuscript.
-- **Quarter 3 (spring semester until spring break)** This quarter is devoted to _applying basic data science knowledge_.  The deliverables include (1) for each individual, a link to a PR of a newly developed method into one of the approved repositories, and (2) a link to an overleaf draft completing up to step 7 of paper writing for the team.
-- **Quarter 4 (spring break until final)** This quarter is devoted to technically communicating and knowledge transfer. The deliverables include (1) for each individual, a link showing that the PR was merged in, (2) an email forwarded demonstrating that the manuscript was completed and submitted.
+- **Quarter 1 (first month of class)** The first month of class is devoted to _self-understanding_. Specifically, the students are required to form teams, and choose a project.  The choice of project is jointly driven by: (i) significance, (ii) feasibility, and (iii) intrinsic motivation.  We propose a number of existing brain science challenge problems and state-of-the-art datasets. Each team is required to choose a dataset, problem, and approach to solve it in this month.  We provide (at least) weekly feedback to help guide the teams to choosing signficant projects that are feasible for them that they are intrinsically motivated to solve.   
+- **Quarter 2 (rest of fall semester)** This quarter is devoted to learning _basic data science skills_.  You will implement or fix some algorithm, or demonstrate its capabilities and limiations. 
+- **Quarter 3 (spring semester until spring break)** This quarter is devoted to _applying basic data science knowledge_.  
+- **Quarter 4 (spring break until final)** This quarter is devoted to *technically communicating* and knowledge transfer.
 
 We have class three times per week.  About once per week I provide a lecture on some relevant data science content, typically content not available otherwise online.  The bulk of the classroom time, however, is spent with student presentations.  Each week each student presents their progress from the previous week, and their plan for the next week.  Feedback is provided in written form to each student for each presentation, and verbal feedback is provided whenever it seems generally useful for other students.  Each team also meets at least once more per week to prepare their presentation, and work together.  So far, the students have determined that the class is quite good, with an average overall quality of 4.71, as compared to the department’s average of 3.95, and the schools average of 4.09 (see Table 1 for details).  This is despite the fact that course is also typically ranked one of the most difficult and time-consuming courses.
 
@@ -103,3 +103,41 @@ This course requires some analysis of data, the only approved dataset is the
  [https://healthybrainnetwork.org/](Healthy Brain Network).  If for some reason you believe your tool cannot be applied to these data, please discuss with the TA.
 
 
+### Communication
+
+This class communicates largely in Slack. Please join our Slack channel at http://spiralscience.slack.com/signup to get involved. Regular updates are provided in Slack, and the instructors will assume you have received them. TA will answer questions from slack approximately within 48 hours.
+
+### External Help
+
+Jovo and TA are typically available after class and through Slack to provide feedback/guidance as requested.
+
+### Grading
+
+In general, it is expected that all students will be most excited about this class, and therefore invest a minimum of 12 hours of effort per week in the fall, and over 20 hours of effort per week in the spring. Assuming you at least convince jovo and TAs of this level of effort, and address their weekly feedback, you should expect an A. Anybody in danger of not receiving an A will be told so by jovo, and given clear requirements in order to bring your grade back up to an A. Anybody not receiving an A in the first semester will not be invited back for the second semester.
+
+#### Weekly
+
+Each week students will be graded on the degree of completion of their deliverables, typically including both a qualitative and quantitative result. After your presentations, instructors will provide detailed feedback on your slides, with instructions on how to improve them. Grades will be provided on the basis of your ability to complete the tasks you set out to perform, and update slides on the basis of other's input. In addition, slides should have research artifacts for each task (whether completed or not).
+
+#### Sprint Deliverable Grades
+
+The sprint deliverables will be graded as follows. Jovo will send a link to your webpage to a technically competent student or collaborator, as well as instructions. That person will attempt to run the tool from start to finish. If she is unable to complete the analysis, you get a zero. If she is able to complete it, but gets results dramatically different from what she should have gotten, you get a 50%. If she is able to complete it, and gets answers that are reasonable, you get a 100%.
+
+### Feedback
+
+Steven Covey, author of "Seven Habits", states that the 7th habit is "sharpening our sword", which means (for this class), getting feedback and seriously considering it. Every person involved in the class will therefore be required to provide feedback to others, including the instructor. Students will also identify properties of the class which gruntle or disgruntle them, so that we may make adjustments.
+
+### ABET Student Outcomes
+
+- (a1) Apply knowledge of advanced mathematics (calculus, differential equations, linear algebra, statistics) to problems at the interface of engineering, biology and medicine
+- (a5) Mathematically model and simulate biological systems using computers
+- (b1) Formulate hypothesis for experiments, including those on living systems
+- (b4) Display, describe, summarize and interpret experimental results in a lab report
+- (c1) Identify a desired need and define the biomedical engineering problem to be solved
+- (c2) Determine the constraints to the problem and assess the successful likelihood for different approaches
+- (d1) Communicate opinions, viewpoints and expertise with other team members
+- (d2) Understand team goals and assume and fulfill individual responsibilities within the team
+- (e3) Solve problem using experimental, mathematical and/or computational tools
+- (g1) Synthesize, summarize and explain technical content in a written report
+- (g2) Synthesize, summarize and explain technical content in an oral presentation
+- (k1) Gain proficiency in computer simulations and mathematical analysis tools
