@@ -4,6 +4,7 @@
  - How to add files to be rendered by Sphinx for documentation 
  - How to get math to render in docstrings 
  - How to check netifly output to see how things look 
+ - intersphinx mapping
 
 ## Style
  - Python variable naming conventions 
@@ -12,6 +13,8 @@
  - Descriptive variable names 
  - Remove junk (commented out code, for example) 
  - In general, just get familiar with the style of the code base that you are contributing to
+ - Line lengths and using rulers for docstrings
+ - Use a formatter tool like black
  
 ## Testing 
  - Need a laundry list of things that should always be tested 
