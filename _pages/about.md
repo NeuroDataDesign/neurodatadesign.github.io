@@ -65,7 +65,7 @@ General rules for class presentations:
   - Link to the issue that this result is related to in the appropriate repo 
 - One minute of presentation, to leave time for discussion with us
 
-## Pull requests
+### Pull requests
 - Prior to having a PR reviewed by TAs, we will be doing partner code reviews.
    - Work out amongst your team members (or others in the class if you prefer) who will
     be reviewing your PRs. 
