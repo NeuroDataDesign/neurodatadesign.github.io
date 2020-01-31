@@ -6,14 +6,14 @@ main:
   - title: "Presentations"
     url: https://drive.google.com/open?id=17PPbcxSS-txyV5l9VaWy2S5N1ZbxEVEk
 
+  - title: "Feedback"
+    url: https://forms.gle/4f9DftqU4341W8ac6
+
   - title: "Syllabus"
     url: /syllabus/
 
   - title: "Calendar"
     url: /calendar/
-
-  - title: "Proposals"
-    url: /proposals/
 
   - title: "Useful Links"
     url: /links/
