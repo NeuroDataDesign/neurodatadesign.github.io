@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Overall goals and structure
-The goal of the remainder of the course is to
+The goal of the remainder of the course is to either
 - write a manuscript detailing the work you have already done
 - continue to make PRs into widely-used software packages
 
@@ -32,17 +32,21 @@ and coherently written.
 
 ### Monday, Kavli rooms
 The following teams should attend: 
-- (pending)
+- Tealeaf
+- Forbidden Forest
+- Mouselit
 
 TAs/Jovo will meet with each team individually.
-On the day you present you should have a single slide based on the slide guidelines
+On the day you present you should have 1-2 slides based on the slide guidelines below
  
 ### Wednesday, Kavli rooms
 The following teams should attend:
-- (pending)
+- Graphs
+- Multiview
+- NDMG
 
 TAs/Jovo will meet with each team individually. 
-On the day you present you should have a single slide based on the slide guidelines
+On the day you present you should have 1-2 slides based on the slide guidelines below
 
 ### Friday, Bloomberg
 Everyone should attend 
@@ -50,8 +54,7 @@ Everyone should attend
 Jovo and TAs will do lectures and short tutorials, possibly leaving time to meet with us
 as well
 
-### Submit feedback form (by Monday morning)
-(Link will appear here)
+### Submit [feedback form](https://forms.gle/gqyHwVkboXfLYsNd7) by Monday morning 
 
 ## Class guidelines
 
@@ -82,5 +85,3 @@ of why/how you are stuck, or demonstrate adequately why the thing does not need 
 - This semester we will try having open office hours as opposed to regular group meetings
 - Office hour times: 
    - (pending)
-
-

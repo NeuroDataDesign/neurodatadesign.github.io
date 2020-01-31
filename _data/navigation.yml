@@ -3,6 +3,9 @@ main:
   - title: "PR Guidelines"
     url: /pr/
 
+  - title: "Presentations"
+    url: https://drive.google.com/open?id=17PPbcxSS-txyV5l9VaWy2S5N1ZbxEVEk
+
   - title: "Syllabus"
     url: /syllabus/
 
@@ -11,9 +14,6 @@ main:
 
   - title: "Proposals"
     url: /proposals/
-
-  - title: "Presentations"
-    url: /presentations/
 
   - title: "Useful Links"
     url: /links/
