@@ -26,8 +26,8 @@ This course is based on my experience as an academic, and entrepreneur, an advis
 
 The main "skills" you will learn in this class include:
 
-- How to choose a project *significant* for the world, *feasible* for you, and that you are intrinsically motivated to complete (see [https://bitsandbrains.io/2018/08/31/sig-and-feas.html]).
-- How to scope work so that you can achieve weekly progress towards quarterly goals (see [https://www.mindtools.com/pages/article/smart-goals.htm]).
+- How to choose a project *significant* for the world, *feasible* for you, and that you are intrinsically motivated to complete (see [my blog post](https://bitsandbrains.io/2018/08/31/sig-and-feas.html)).
+- How to scope work so that you can achieve weekly progress towards quarterly goals (see [smart goals](https://www.mindtools.com/pages/article/smart-goals.htm)).
 - How to effectively communicate technical content.
 - How to generate publication quality figures (see [figure checklist](https://bitsandbrains.io/2018/09/08/figures.html)).
 - How to complete a wide set of data science tasks, spanning from data wrangling to statistical modeling.
