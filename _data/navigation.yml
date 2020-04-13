@@ -9,6 +9,10 @@ main:
   # - title: "Feedback"
   #   url: https://forms.gle/1F9Gn123KHHy94Lj9
 
+  - title: "Join"
+    url: /join/
+
+
   - title: "Syllabus"
     url: /syllabus/
 
