@@ -52,16 +52,58 @@ goal of the course is to create an inspirational environment in which each of th
 students works on a team to build a data science product "soup to nuts", starting with 
 ideation and ending with publication. Along the way, students learn skills that will 
 serve them well in industry, academia, or government.  To facilitate these goals, the 
-course is  divided into quarters:
+course is divided into quarters:
 
 ### Course structure
 
-- **Quarter 1 (first month of class)** The first month of class is devoted to _self-understanding_. Specifically, the students are required to form teams, and choose a project.  The choice of project is jointly driven by: (i) significance, (ii) feasibility, and (iii) intrinsic motivation.  We propose a number of existing brain science challenge problems and state-of-the-art datasets. Each team is required to choose a dataset, problem, and approach to solve it in this month.  We provide (at least) weekly feedback to help guide the teams to choosing signficant projects that are feasible for them that they are intrinsically motivated to solve.   
-- **Quarter 2 (rest of fall semester)** This quarter is devoted to learning _basic data science skills_.  You will implement or fix some algorithm, or demonstrate its capabilities and limiations. 
+- **Quarter 1 (first month of class)** The first month of class is devoted to _self-understanding_. Specifically, the students are required to form teams, and choose a project.  The choice of project is jointly driven by: (i) significance, (ii) feasibility, and (iii) intrinsic motivation.  We propose a number of existing brain science challenge problems and state-of-the-art datasets. Each team is required to choose a data science/neuroscience problem, and an approach to solve it.  We provide (at least) weekly feedback to help guide the teams to choosing significant projects that are feasible for them that they are intrinsically motivated to solve. We will also cover some foundational skills for developing data science
+skills, such as using Git, best practices for software package development, and how to evaluate 
+algorithms.
+- **Quarter 2 (rest of fall semester)** This quarter is devoted to learning _basic data science skills_.  You will implement or fix some algorithm, or demonstrate its capabilities and limitations. 
 - **Quarter 3 (spring semester until spring break)** This quarter is devoted to _applying basic data science knowledge_.  
 - **Quarter 4 (spring break until final)** This quarter is devoted to *technically communicating* and knowledge transfer.
 
-We have class three times per week.  About once per week I provide a lecture on some relevant data science content, typically content not available otherwise online.  The bulk of the classroom time, however, is spent with student presentations.  Each week each student presents their progress from the previous week, and their plan for the next week.  Feedback is provided in written form to each student for each presentation, and verbal feedback is provided whenever it seems generally useful for other students.  Each team also meets at least once more per week to prepare their presentation, and work together.  So far, the students have determined that the class is quite good, with an average overall quality of 4.71, as compared to the department’s average of 3.95, and the schools average of 4.09 (see Table 1 for details).  This is despite the fact that course is also typically ranked one of the most difficult and time-consuming courses.
+We have class three times per week.  About once per week I provide a lecture on some relevant data science content, typically content not available otherwise online.  The bulk of the classroom time, however, is spent with student presentations.  Each week each student presents their progress from the previous week, and their plan for the next week.  Feedback is provided in written form to each student for each presentation, and verbal feedback is provided whenever it seems generally useful for other students.  Each team also meets at least once more per week to prepare their presentation, and work together.  
+
+
+### Communication
+
+This class communicates largely in Slack. Please join our [Slack workspace](http://spiralscience.slack.com/signup) at  to get involved. Regular updates are provided in Slack, and the instructors will assume you have received them. TA will answer questions from slack approximately within 48 hours.
+
+### External Help
+
+Jovo and TA are typically available after class and through Slack to provide feedback/guidance as requested.
+
+### Grading
+
+In general, it is expected that all students will be most excited about this class, and therefore invest a minimum of 12 hours of effort per week in the fall, and over 20 hours of effort per week in the spring. Assuming you at least convince Jovo and TAs of this level of effort, and address their weekly feedback, you should expect an A. Anybody in danger of not receiving an A will be told so by Jovo, and given clear requirements in order to bring your grade back up to an A. Anybody not receiving an A in the first semester will not be invited back for the second semester.
+
+#### Weekly tasks
+
+Each week students will be graded on the degree of completion of their deliverables, typically including both a qualitative and quantitative result. After your presentations, instructors will provide detailed feedback on your slides, with instructions on how to improve them. Grades will be provided on the basis of your ability to complete the tasks you set out to perform, and update slides on the basis of other's input. In addition, slides should have research artifacts for each task (whether completed or not).
+
+#### Sprint Deliverable Grades
+
+The sprint deliverables will be graded as follows. Jovo will send a link to your webpage to a technically competent student or collaborator, as well as instructions. That person will attempt to run the tool from start to finish. If she is unable to complete the analysis, you get a zero. If she is able to complete it, but gets results dramatically different from what she should have gotten, you get a 50%. If she is able to complete it, and gets answers that are reasonable, you get a 100%.
+
+### Open Source Projects
+
+The set of approved open-source repositories to contribute to include:
+
+- [scipy](https://www.scipy.org/scipylib/index.html)
+- [sklearn](https://scikit-learn.org/stable/)
+- [networkx](https://networkx.github.io/)
+- [skimage](https://scikit-image.org/docs/dev/api/skimage.html)
+- [dipy](https://dipy.org/)
+- [mne](https://martinos.org/mne/stable/index.html)
+
+
+### Feedback
+
+Steven Covey, author of "Seven Habits", states that the 7th habit is "sharpening our sword", which means (for this class), getting feedback and seriously considering it. Every person involved in the class will therefore be required to provide feedback to others, including the instructor. Students will also identify properties of the class which gruntle or disgruntle them, so that we may make adjustments.
+
+### Course reviews
+So far, the students have determined that the class is quite good, with an average overall quality of 4.71, as compared to the department’s average of 3.95, and the schools average of 4.09 (see Table 1 for details).  This is despite the fact that course is also typically ranked one of the most difficult and time-consuming courses.
 
 Quantitative teaching evaluations for all NeuroData Design courses is shown below. Numbers represent ``overall quality’' of the course. Scores out of 5 (4 = “good”; 5 = “excellent”). Response rates: All but 2 students ever responded. The mean number of students is per semester (ignoring winter session and joining across multiple course levels if they met during the same time.  Note that course evaluations for several course numbers are not available online, including 638.SP18 and 497.FA18. 
 
@@ -81,49 +123,6 @@ Quantitative teaching evaluations for all NeuroData Design courses is shown belo
 | **Mean** | **14.5**   | **4.70**|**4.09**|**3.95**|**4.85** |**4.16**|**4.16**|
 
 
-
-### Open Source Projects
-
-The set of approved open-source repositories to contribute to include:
-
-- [scipy](https://www.scipy.org/scipylib/index.html)
-- [sklearn](https://scikit-learn.org/stable/)
-- [networkx](https://networkx.github.io/)
-- [skimage](https://scikit-image.org/docs/dev/api/skimage.html)
-- [dipy](https://dipy.org/)
-- [mne](https://martinos.org/mne/stable/index.html)
-
-
-### Datasets
-
-This course requires some analysis of data, the only approved dataset is the 
- [https://healthybrainnetwork.org/](Healthy Brain Network).  If for some reason you believe your tool cannot be applied to these data, please discuss with the TA.
-
-
-### Communication
-
-This class communicates largely in Slack. Please join our Slack channel at http://spiralscience.slack.com/signup to get involved. Regular updates are provided in Slack, and the instructors will assume you have received them. TA will answer questions from slack approximately within 48 hours.
-
-### External Help
-
-Jovo and TA are typically available after class and through Slack to provide feedback/guidance as requested.
-
-### Grading
-
-In general, it is expected that all students will be most excited about this class, and therefore invest a minimum of 12 hours of effort per week in the fall, and over 20 hours of effort per week in the spring. Assuming you at least convince jovo and TAs of this level of effort, and address their weekly feedback, you should expect an A. Anybody in danger of not receiving an A will be told so by jovo, and given clear requirements in order to bring your grade back up to an A. Anybody not receiving an A in the first semester will not be invited back for the second semester.
-
-#### Weekly
-
-Each week students will be graded on the degree of completion of their deliverables, typically including both a qualitative and quantitative result. After your presentations, instructors will provide detailed feedback on your slides, with instructions on how to improve them. Grades will be provided on the basis of your ability to complete the tasks you set out to perform, and update slides on the basis of other's input. In addition, slides should have research artifacts for each task (whether completed or not).
-
-#### Sprint Deliverable Grades
-
-The sprint deliverables will be graded as follows. Jovo will send a link to your webpage to a technically competent student or collaborator, as well as instructions. That person will attempt to run the tool from start to finish. If she is unable to complete the analysis, you get a zero. If she is able to complete it, but gets results dramatically different from what she should have gotten, you get a 50%. If she is able to complete it, and gets answers that are reasonable, you get a 100%.
-
-### Feedback
-
-Steven Covey, author of "Seven Habits", states that the 7th habit is "sharpening our sword", which means (for this class), getting feedback and seriously considering it. Every person involved in the class will therefore be required to provide feedback to others, including the instructor. Students will also identify properties of the class which gruntle or disgruntle them, so that we may make adjustments.
-
 ### ABET Student Outcomes
 
 - (a1) Apply knowledge of advanced mathematics (calculus, differential equations, linear algebra, statistics) to problems at the interface of engineering, biology and medicine
@@ -138,3 +137,9 @@ Steven Covey, author of "Seven Habits", states that the 7th habit is "sharpening
 - (g1) Synthesize, summarize and explain technical content in a written report
 - (g2) Synthesize, summarize and explain technical content in an oral presentation
 - (k1) Gain proficiency in computer simulations and mathematical analysis tools
+
+
+<!-- ### Datasets
+
+This course requires some analysis of data, the only approved dataset is the 
+ [https://healthybrainnetwork.org/](Healthy Brain Network).  If for some reason you believe your tool cannot be applied to these data, please discuss with the TA. -->
