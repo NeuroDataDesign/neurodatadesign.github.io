@@ -49,7 +49,7 @@ for more advanced undergraduates and graduate students (the 4xx and 6xx are 4 cr
 the fall, and 6 credits in the spring, as of this year). Teams are encouraged to include 
 students at all levels, as each level brings a unique and valuable perspective.  The 
 goal of the course is to create an inspirational environment in which each of the 
-students works on a team to build a data science product ``soup to nuts’‘, starting with 
+students works on a team to build a data science product "soup to nuts", starting with 
 ideation and ending with publication. Along the way, students learn skills that will 
 serve them well in industry, academia, or government.  To facilitate these goals, the 
 course is  divided into quarters:
