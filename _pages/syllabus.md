@@ -4,39 +4,12 @@ permalink: /syllabus/
 author_profile: true
 ---
 
-### Credits
+### Goals for everyone in the course 
+1. Make a pull request (PR) into a widely used open source repository
+2. Write a manuscript with your group
 
-The 4xx and 6xx course will provide 4 design-credits both semesters. 
-The 2xx level is 3 credits both semesters.
-
-### Course Requirements
-
-Admittance to this course requires approval from the instructor, to ensure the students in the course are sufficient diverse along a number of dimensions. To gain admittance, you must:
-
-1. Be more excited about this course than any other academic endeavor for the year. Nobody is required to teach or take this course, and since so many people want to take it each year, preference is given to those that are most passionate about the material.
-2. In practice, people commonly spend up to 20 hrs per week in this class, or more.  It is often rated one of the most challenging courses, so please consider that when making your course schedule. Priority will be given to students that certainly have room to be successful in the course.
-3. For the 4xx and 6xx class, some background in numerical programming is required.
-4. Because this course is based on team projects, entire teams are approved all at once. You can join the course slack channel here to chat with other potential team mates.
-5. Send the CV and transcript of all members of your planned team to me for joint approval.
-
-
-### Background
-
-This course is based on my experience as an academic, and entrepreneur, an advisor, and an instructor. It is designed to be the best class you'll ever take. You will learn (by doing and getting feedback) the skills that I have found particularly useful in my endeavors. It will be organized into weekly sprints. Weekly progress will be reported documenting goals towards your team sprints, with sprint demo's to happen at the close of each sprint. Each team will be graded jointly on the basis of meeting the sprint goals, as well as providing clear and concise weekly progress reports.
-
-The main "skills" you will learn in this class include:
-
-- How to choose a project *significant* for the world, *feasible* for you, and that you are intrinsically motivated to complete (see [my blog post](https://bitsandbrains.io/2018/08/31/sig-and-feas.html)).
-- How to scope work so that you can achieve weekly progress towards quarterly goals (see [smart goals](https://www.mindtools.com/pages/article/smart-goals.htm)).
-- How to effectively communicate technical content.
-- How to generate publication quality figures (see [figure checklist](https://bitsandbrains.io/2018/09/08/figures.html)).
-- How to complete a wide set of data science tasks, spanning from data wrangling to statistical modeling.
-- How to peacefully and productively work with a diverse team of passionate individuals.
-
-
-### Code of Conduct
-Everyone taking the course is required to abide by the Neurodata [Code of Conduct](https://neurodata.io/about/agreements/#respect). If you have questions or suggestions for making the code of conduct 
-better, let us know.
+If you feel your goals/desires don't fall under either category, please talk to us so we
+can see if something else would be feasible. 
 
 ### Course Summary
 
@@ -64,6 +37,38 @@ algorithms.
 - **Quarter 4 (spring break until final)** This quarter is devoted to *technically communicating* and knowledge transfer.
 
 We have class three times per week.  About once per week I provide a lecture on some relevant data science content, typically content not available otherwise online.  The bulk of the classroom time, however, is spent with student presentations.  Each week each student presents their progress from the previous week, and their plan for the next week.  Feedback is provided in written form to each student for each presentation, and verbal feedback is provided whenever it seems generally useful for other students.  Each team also meets at least once more per week to prepare their presentation, and work together.  
+
+### Background
+
+This course is based on my experience as an academic, and entrepreneur, an advisor, and an instructor. It is designed to be the best class you'll ever take. You will learn (by doing and getting feedback) the skills that I have found particularly useful in my endeavors. It will be organized into weekly sprints. Weekly progress will be reported documenting goals towards your team sprints, with sprint demo's to happen at the close of each sprint. Each team will be graded jointly on the basis of meeting the sprint goals, as well as providing clear and concise weekly progress reports.
+
+The main "skills" you will learn in this class include:
+
+- How to choose a project *significant* for the world, *feasible* for you, and that you are intrinsically motivated to complete (see [my blog post](https://bitsandbrains.io/2018/08/31/sig-and-feas.html)).
+- How to scope work so that you can achieve weekly progress towards quarterly goals (see [smart goals](https://www.mindtools.com/pages/article/smart-goals.htm)).
+- How to effectively communicate technical content.
+- How to generate publication quality figures (see [figure checklist](https://bitsandbrains.io/2018/09/08/figures.html)).
+- How to complete a wide set of data science tasks, spanning from data wrangling to statistical modeling.
+- How to peacefully and productively work with a diverse team of passionate individuals.
+
+### Credits
+
+The 4xx and 6xx course will provide 4 design-credits both semesters. 
+The 2xx level is 3 credits both semesters.
+
+### Course Requirements
+
+Admittance to this course requires approval from the instructor, to ensure the students in the course are sufficient diverse along a number of dimensions. To gain admittance, you must:
+
+1. Be more excited about this course than any other academic endeavor for the year. Nobody is required to teach or take this course, and since so many people want to take it each year, preference is given to those that are most passionate about the material.
+2. In practice, people commonly spend up to 20 hrs per week in this class, or more.  It is often rated one of the most challenging courses, so please consider that when making your course schedule. Priority will be given to students that certainly have room to be successful in the course.
+3. For the 4xx and 6xx class, background in numerical programming is required.
+4. See the [Join](./join.md) page for more information on how to get enrolled.
+
+
+### Code of Conduct
+Everyone taking the course is required to abide by the Neurodata [Code of Conduct](https://neurodata.io/about/agreements/#respect). If you have questions or suggestions for making the code of conduct 
+better, let us know.
 
 
 ### Communication
