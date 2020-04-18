@@ -13,7 +13,7 @@ can see if something else would be feasible.
 
 ### Course Summary
 
-NDD is a year long project-based course where students work in teams of four to eight
+Neuro data design (NDD) is a year long project-based course where students work in teams of four to eight
 students.  I offer three different levels,   2xx,  4xx, and 6xx.  The 2xx ensures that
 people with limited to no background in data science and/or engineering can still 
 participate and benefit from the course (3 credits both semesters).  The 4xx is designed
@@ -25,20 +25,46 @@ goal of the course is to create an inspirational environment in which each of th
 students works on a team to build a data science product "soup to nuts", starting with 
 ideation and ending with publication. Along the way, students learn skills that will 
 serve them well in industry, academia, or government.  To facilitate these goals, the 
-course is divided into quarters:
+course is divided into sprints:
 
-### Course structure
+### Goals by Sprint
+The course is focused on contributing easy-to-use, well tested, well documented code to 
+open source software repositories ([repos](https://en.wikipedia.org/wiki/Software_repository)). 
+The instructors will provide a list of repos to contribute to and a list of issues
+that need tackling. We will [fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) the public version of these repos, and students will make [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) (PR) into 
+those forks. After iterating with the instructors, students will submit their PRs to the public
+repos, and iterate with the developers to get their PRs merged. 
 
-- **Quarter 1 (first month of class)** The first month of class is devoted to _self-understanding_. Specifically, the students are required to form teams, and choose a project.  The choice of project is jointly driven by: (i) significance, (ii) feasibility, and (iii) intrinsic motivation.  We propose a number of existing brain science challenge problems and state-of-the-art datasets. Each team is required to choose a data science/neuroscience problem, and an approach to solve it.  We provide (at least) weekly feedback to help guide the teams to choosing significant projects that are feasible for them that they are intrinsically motivated to solve. We will also cover some foundational skills for developing data science
+By the end of each sprint, each student will...
+- **Sprint 1 (fall semester until fall break)** 
+    - Submit a to our fork of an approved open source repo. 
+    - Make an issue in a real repo detailing the changes you intend to make.
+- **Sprint 2 (rest of fall semester)**
+    - Merge a PR into our fork of a repo. This means that the TAs must approve of the code 
+    you have written (see [PR guidelines](./pr.md)).
+    - Submit PR to the real repo.
+- **Sprint 3 (spring semester until spring break)**
+    - PR merged into real repo.
+- **Sprint 4 (spring break until final)** 
+    - Manuscript submitted to arxiv detailing your contributions to the open-source 
+    scientific software ecosystem.
+    - OR another PR merged into a real repo.
+
+### Weekly structure
+We have class three times per week.The bulk of the classroom time, however, is spent with student presentations.  Each week each student presents their progress from the previous week, and their plan for the next week.  Feedback is provided in written form to each student for each presentation, and verbal feedback is provided whenever it seems generally useful for other students. Each team also meets at least once more per week to prepare their presentation, and work together. About once per week we provide a lecture on some relevant data science content, typically content not available otherwise online.   
+
+<!-- - **Sprint 1 (fall semester until fall break)** Teams will be formed prior to joining the course based on your preferences indicated in the application form. 
+
+ The first month of class is devoted to _self-understanding_. Specifically, the students are required to form teams, and choose a project.  The choice of project is jointly driven by: (i) significance, (ii) feasibility, and (iii) intrinsic motivation.  We propose a number of existing brain science challenge problems and state-of-the-art datasets. Each team is required to choose a data science/neuroscience problem, and an approach to solve it.  We provide (at least) weekly feedback to help guide the teams to choosing significant projects that are feasible for them that they are intrinsically motivated to solve. We will also cover some foundational skills for developing data science
 skills, such as using Git, best practices for software package development, and how to evaluate 
 algorithms.
-- **Quarter 2 (rest of fall semester)** This quarter is devoted to learning _basic data science skills_.  You will implement or fix some algorithm, or demonstrate its capabilities and limitations. 
-- **Quarter 3 (spring semester until spring break)** This quarter is devoted to _applying basic data science knowledge_.  
-- **Quarter 4 (spring break until final)** This quarter is devoted to *technically communicating* and knowledge transfer.
+- **Sprint 2 (rest of fall semester)** This quarter is devoted to learning _basic data science skills_.  You will implement or fix some algorithm, or demonstrate its capabilities and limitations. 
+- **Sprint 3 (spring semester until spring break)** This quarter is devoted to _applying basic data science knowledge_.  
+- **Sprint 4 (spring break until final)** This quarter is devoted to *technically communicating* and knowledge transfer.
 
-We have class three times per week.  About once per week I provide a lecture on some relevant data science content, typically content not available otherwise online.  The bulk of the classroom time, however, is spent with student presentations.  Each week each student presents their progress from the previous week, and their plan for the next week.  Feedback is provided in written form to each student for each presentation, and verbal feedback is provided whenever it seems generally useful for other students.  Each team also meets at least once more per week to prepare their presentation, and work together.  
+We have class three times per week.  About once per week I provide a lecture on some relevant data science content, typically content not available otherwise online.  The bulk of the classroom time, however, is spent with student presentations.  Each week each student presents their progress from the previous week, and their plan for the next week.  Feedback is provided in written form to each student for each presentation, and verbal feedback is provided whenever it seems generally useful for other students.  Each team also meets at least once more per week to prepare their presentation, and work together.   -->
 
-### Background
+### Motivation
 
 This course is based on my experience as an academic, and entrepreneur, an advisor, and an instructor. It is designed to be the best class you'll ever take. You will learn (by doing and getting feedback) the skills that I have found particularly useful in my endeavors. It will be organized into weekly sprints. Weekly progress will be reported documenting goals towards your team sprints, with sprint demo's to happen at the close of each sprint. Each team will be graded jointly on the basis of meeting the sprint goals, as well as providing clear and concise weekly progress reports.
 
