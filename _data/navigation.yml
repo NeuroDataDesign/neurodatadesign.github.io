@@ -1,28 +1,28 @@
 # main links links
 main:
+  - title: "Syllabus"
+    url: /syllabus/
+  
+  - title: "Join"
+    url: /join/
+
   - title: "PR Guidelines"
     url: /pr/
 
   - title: "Presentations"
     url: https://drive.google.com/open?id=17PPbcxSS-txyV5l9VaWy2S5N1ZbxEVEk
 
-  # - title: "Feedback"
-  #   url: https://forms.gle/1F9Gn123KHHy94Lj9
-
-  - title: "Join"
-    url: /join/
-
-  - title: "Syllabus"
-    url: /syllabus/
-
   - title: "Calendar"
     url: /calendar/
+
+  - title: "Publications"
+    url: /publications/
 
   - title: "Useful Links"
     url: /links/
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Feedback"
+  #   url: https://forms.gle/1F9Gn123KHHy94Lj9
 
   # - title: "Talks"
   #   url: /talks/    
