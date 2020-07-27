@@ -14,4 +14,4 @@ For information on joining the course, please see the [Join](./join.md) page.
 
 If you have questions for the instructors (after reading the [Join](./join.md) page and the [Syllabus](./syllabus.md)), please email us at 
 
-**ta [at] neurodatadesign [dot] io**
+**ta [at] neurodata [dot] io**
