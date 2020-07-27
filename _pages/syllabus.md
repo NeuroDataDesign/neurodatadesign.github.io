@@ -13,18 +13,15 @@ can see if something else would be feasible.
 
 ### Course Summary
 
-Neuro data design (NDD) is a year long project-based course where students work in teams of four to eight
-students.  I offer three different levels,   2xx,  4xx, and 6xx.  The 2xx ensures that
-people with limited to no background in data science and/or engineering can still 
-participate and benefit from the course (3 credits both semesters).  The 4xx is designed
-for undergraduates with background in engineering and data science.  The 6xx is designed
-for more advanced undergraduates and graduate students (the 4xx and 6xx are 4 credits in 
-the fall, and 6 credits in the spring, as of this year). Teams are encouraged to include 
-students at all levels, as each level brings a unique and valuable perspective.  The 
+Neuro Data Design (NDD) is a year-long project-based course where students work in teams of four to eight
+students. We offer two different levels: 4xx and 6xx. The 4xx is designed
+for undergraduates with background in engineering and data science and the 6xx is designed
+for more advanced undergraduates and graduate students. Teams are encouraged to include 
+students at both levels, as each level brings a unique and valuable perspective. The 
 goal of the course is to create an inspirational environment in which each of the 
 students works on a team to build a data science product "soup to nuts", starting with 
 ideation and ending with publication. Along the way, students learn skills that will 
-serve them well in industry, academia, or government.  To facilitate these goals, the 
+serve them well in industry, academia, or government. To facilitate these goals, the 
 course is divided into sprints:
 
 ### Goals by Sprint
