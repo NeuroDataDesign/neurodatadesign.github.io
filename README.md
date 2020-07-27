@@ -1,6 +1,11 @@
 # NeuroData Design
 
-This is the website for Neuro Data Design, a class in the BME Department at JHU.
+This is the website for [Neuro Data Design](neurodatadesign.io), a class in the BME Department at JHU.
+
+## Important pages
+- [About](https://github.com/NeuroDataDesign/neurodatadesign.github.io/blob/master/_pages/about.md)
+- [Syllabus](https://github.com/NeuroDataDesign/neurodatadesign.github.io/blob/master/_pages/syllabus.md)
+- [Join](https://github.com/NeuroDataDesign/neurodatadesign.github.io/blob/master/_pages/join.md)
 
 ## Onboarding new TAs
 
