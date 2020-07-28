@@ -13,9 +13,6 @@ To demonstrate your understanding of *Python* and *GitHub*, please do *one* of t
     1. Send us proof of completion for these courses: [First Day on GitHub](https://lab.github.com/githubtraining/paths/first-day-on-github) and [DataCamp Python Course](https://www.datacamp.com/courses/intro-to-python-for-data-science)
     2. Send us a link one of your GitHub repositories where you use Python. Make sure the repository demonstrates understanding commensurate with completion of the courses above.
 
-
 3. **Join the [Slack](https://spiralscience.slack.com/signup) workspace.** Once you join the workspace, also make sure to join the **#ndd-20-21** channel. This is where we will discuss all course logistics and organize into teams for next year.
 
-4. **Read [descriptions of projects for next year]()** (link broken, please wait)
-
-5. **Submit [application form]()** (link broken, please wait)
+4. **Submit the [application form](https://docs.google.com/forms/d/e/1FAIpQLScUUZyzke1GoNCEt-SUpiTU-CAmO1FEU1KAcrFCyILfI37NJw/viewform?usp=sf_link).**
