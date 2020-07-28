@@ -76,8 +76,7 @@ The main "skills" you will learn in this class include:
 
 ### Credits
 
-The 4xx and 6xx course will provide 4 design-credits both semesters. 
-The 2xx level is 3 credits both semesters.
+The 4xx and 6xx course will provide 4 design credits in both the Fall and Spring. 
 
 ### Course Requirements
 
@@ -85,7 +84,7 @@ Admittance to this course requires approval from the instructor, to ensure the s
 
 1. Be more excited about this course than any other academic endeavor for the year. Nobody is required to teach or take this course, and since so many people want to take it each year, preference is given to those that are most passionate about the material.
 2. In practice, people commonly spend up to 20 hrs per week in this class, or more.  It is often rated one of the most challenging courses, so please consider that when making your course schedule. Priority will be given to students that certainly have room to be successful in the course.
-3. For the 4xx and 6xx class, background in numerical programming is required.
+3. Background in numerical programming is required.
 4. See the [Join](./join.md) page for more information on how to get enrolled.
 
 
