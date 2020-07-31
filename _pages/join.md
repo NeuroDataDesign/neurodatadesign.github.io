@@ -4,7 +4,7 @@ permalink: /join/
 author_profile: true
 ---
 
-# Prerequisites 
+## Prerequisites 
 If you would like to take Neuro Data Design Fall 2020, please follow all of the steps below: 
 
 1. **Read the [syllabus](https://neurodatadesign.github.io/syllabus/).** Make sure that the course sounds right for you. If you are unsure, look at some of the [publications](https://neurodatadesign.github.io/publications/) written by students who previously took the course, or talk to current students (you can get in touch via Slack, see below). 
@@ -20,7 +20,7 @@ To demonstrate your understanding of *Python* and *GitHub*, please do *one* of t
 
 5. **Submit the [application form](https://docs.google.com/forms/d/e/1FAIpQLScUUZyzke1GoNCEt-SUpiTU-CAmO1FEU1KAcrFCyILfI37NJw/viewform?usp=sf_link).**
 
-# Forming teams
+## Forming teams
 Students will independently form teams in the Slack workspace based on project interest.
 
 :exclamation:Once a team has been finalized, we will enroll all members together (not before!):exclamation:
