@@ -17,6 +17,7 @@ Neuro Data Design (NDD) is a year-long project-based course where students work 
 The course is focused on contributing easy-to-use, well tested, well documented code to open source software repositories ([repos](https://en.wikipedia.org/wiki/Software_repository)). The instructors will provide a list of repos to contribute to and a list of issues that need tackling. We will [fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) the public version of these repos, and students will make [pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) (PRs) into those forks. After iterating with the instructors, students will submit their PRs to the public repos, and iterate with the developers to get their PRs merged. 
 
 The duration and major goals of each sprint is detailed below:
+
 - **Sprint 1 (fall semester until fall break)** is devoted to _self-understanding_. 
     - Pick an issue in your team's forked repo to work on.
     - Make an issue in the corresponding real repo detailing the changes you intend to make.
@@ -38,14 +39,11 @@ Teams will be formed prior to joining the course. Students will rank projects in
 ### Weekly Structure
 We have class three times per week. The bulk of the classroom time, however, is spent with student presentations. Each week each student presents their progress from the previous week, and their plan for the next week. Feedback is provided in written form to each student for each presentation, and verbal feedback is provided whenever it seems generally useful for other students. Each team also meets at least once more per week to prepare their presentation, and work together. About once per week we provide a lecture on some relevant data science content, typically content not available otherwise online.   
 
-<!-- We will also cover some foundational skills for developing data science skills, such as using Git, best practices for software package development, and how to evaluate algorithms.
-
-<!-- We have class three times per week.  About once per week I provide a lecture on some relevant data science content, typically content not available otherwise online.  The bulk of the classroom time, however, is spent with student presentations.  Each week each student presents their progress from the previous week, and their plan for the next week.  Feedback is provided in written form to each student for each presentation, and verbal feedback is provided whenever it seems generally useful for other students.  Each team also meets at least once more per week to prepare their presentation, and work together.
-
 ### Motivation
 This course is based on my experience as an academic, and entrepreneur, an advisor, and an instructor. It is designed to be the best class you'll ever take. You will learn (by doing and getting feedback) the skills that I have found particularly useful in my endeavors. It will be organized into weekly sprints. Weekly progress will be reported documenting goals towards your team sprints, with sprint demo's to happen at the close of each sprint. Each team will be graded jointly on the basis of meeting the sprint goals, as well as providing clear and concise weekly progress reports.
 
 The main "skills" you will learn in this class include:
+
 - How to choose a project *significant* for the world, *feasible* for you, and that you are intrinsically motivated to complete (see [my blog post](https://bitsandbrains.io/2018/08/31/sig-and-feas.html)).
 - How to scope work so that you can achieve weekly progress towards quarterly goals (see [smart goals](https://www.mindtools.com/pages/article/smart-goals.htm)).
 - How to effectively communicate technical content.
@@ -83,11 +81,9 @@ In general, it is expected that all students will be most excited about this cla
 #### Weekly Tasks
 Each week students will be graded on the degree of completion of their deliverables, typically including both a qualitative and quantitative result. After your presentations, instructors will provide detailed feedback on your slides, with instructions on how to improve them. Grades will be provided on the basis of your ability to complete the tasks you set out to perform, and update slides on the basis of other's input. In addition, slides should have research artifacts for each task (whether completed or not).
 
-<!-- #### Sprint Deliverable Grades
-The sprint deliverables will be graded as follows. Jovo will send a link to your webpage to a technically competent student or collaborator, as well as instructions. That person will attempt to run the tool from start to finish. If she is unable to complete the analysis, you get a zero. If she is able to complete it, but gets results dramatically different from what she should have gotten, you get a 50%. If she is able to complete it, and gets answers that are reasonable, you get a 100%.
-
 ### Open Source Projects
 The list of projects for the 2020-2021 academic year can be found [here](https://docs.google.com/document/d/1YioYSo9368g5irnmrVjUmprI8kllpaqn4Dq2hmNaJ4Y/edit?usp=sharing). The repos we typically contribute to include
+
 - [scipy](https://www.scipy.org/scipylib/index.html)
 - [sklearn](https://scikit-learn.org/stable/)
 - [networkx](https://networkx.github.io/)
@@ -121,6 +117,7 @@ Quantitative teaching evaluations for all NeuroData Design courses is shown belo
 
 
 ### ABET Student Outcomes
+
 - (a1) Apply knowledge of advanced mathematics (calculus, differential equations, linear algebra, statistics) to problems at the interface of engineering, biology and medicine
 - (a5) Mathematically model and simulate biological systems using computers
 - (b1) Formulate hypothesis for experiments, including those on living systems
@@ -133,4 +130,3 @@ Quantitative teaching evaluations for all NeuroData Design courses is shown belo
 - (g1) Synthesize, summarize and explain technical content in a written report
 - (g2) Synthesize, summarize and explain technical content in an oral presentation
 - (k1) Gain proficiency in computer simulations and mathematical analysis tools
-
