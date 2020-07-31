@@ -23,6 +23,6 @@ To demonstrate your understanding of *Python* and *GitHub*, please do *one* of t
 ## Forming teams
 Students will independently form teams in the Slack workspace based on project interest.
 
-:exclamation:Once a team has been finalized, we will enroll all members together (not before!):exclamation:
+**Once a team has been finalized, we will enroll all members together (not before!)**
 
 *Note: the reason we require teams to form **prior** to class is that, in previous years, when people applied and failed to organize enough to even form a team, they ended up doing poorly in the class.*
