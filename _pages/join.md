@@ -15,4 +15,6 @@ To demonstrate your understanding of *Python* and *GitHub*, please do *one* of t
 
 3. **Join the [Slack](https://spiralscience.slack.com/signup) workspace.** Once you join the workspace, also make sure to join the **#ndd-20-21** channel. This is where we will discuss all course logistics and organize into teams for next year.
 
-4. **Submit the [application form](https://docs.google.com/forms/d/e/1FAIpQLScUUZyzke1GoNCEt-SUpiTU-CAmO1FEU1KAcrFCyILfI37NJw/viewform?usp=sf_link).**
+4. **Review the [list of projects](https://docs.google.com/document/d/1YioYSo9368g5irnmrVjUmprI8kllpaqn4Dq2hmNaJ4Y/edit?usp=sharing).**
+
+5. **Submit the [application form](https://docs.google.com/forms/d/e/1FAIpQLScUUZyzke1GoNCEt-SUpiTU-CAmO1FEU1KAcrFCyILfI37NJw/viewform?usp=sf_link).**
