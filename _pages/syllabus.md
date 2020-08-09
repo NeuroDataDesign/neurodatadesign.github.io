@@ -118,6 +118,7 @@ Quantitative teaching evaluations for all NeuroData Design courses is shown belo
 | 438.FA20 | 32         | 4.5     |        |      | 4.56      |        |      |
 | **Mean** | **14.5**   | **4.70**|**4.09**|**3.95**|**4.85** |**4.16**|**4.16**|
 
+Reviews for every course that Jovo has ever taught can be found [here](/files/VOGELSTEIN_JoshuaTeaching_Evaluation_Summary_2020_08_07.xlsx).
 
 ### ABET Student Outcomes
 
