@@ -101,20 +101,24 @@ So far, the students have determined that the class is quite good, with an avera
 Quantitative teaching evaluations for all NeuroData Design courses is shown below. Numbers represent "overall quality" of the course. Scores out of 5 (4 = “good”; 5 = “excellent”). Response rates: All but 2 students ever responded. The mean number of students is per semester (ignoring winter session and joining across multiple course levels if they met during the same time.  Note that course evaluations for several course numbers are not available online, including 638.SP18 and 497.FA18. 
 
 
-| Semester | # Students | Quality (NDD) | Quality (School) | Quality (Dept) | Challenge (NDD) | Challenge (School) | Challenge (Dept) | 
+| Semester | # Students | Quality (NDD) | Quality (Dept) | Quality (School) | Challenge (NDD) | Challenge (Dept) | Challenge (School) | 
 |----------|------------|---------|--------|------|-----------|--------|------|
-| 437.FA16 | 11         | 4.73    |   4.09 | 3.84 | 4.91      | 4.16   | 4.15 |
-| 574.WI17 | 6          | 5.00    |   4.21 | 4.31 | 5.00      | 4.10   | 4.13 |
-| 438.SP17 | 12         | 4.58    |   4.08 | 3.98 | 4.83      | 4.14   | 4.14 |
-| 437.FA17 | 9          | 4.63    |  4.08  | 3.86 | 4.38      | 4.15   | 4.12 |
-| 697.FA17 | 6          | 4.80    |  4.08  | 3.86 | 4.80      | 4.15   | 4.12 |
-| 438.SP18 | 7          | 4.71    |  4.08  | 3.94 | 4.71      | 4.17   | 4.23 |
+| 437.FA16 | 11         | 4.73    | 4.09   | 3.84 | 4.91      | 4.16   | 4.15 |
+| 574.WI17 | 6          | 5.00    | 4.21   | 4.31 | 5.00      | 4.10   | 4.13 |
+| 438.SP17 | 12         | 4.58    | 4.08   | 3.98 | 4.83      | 4.14   | 4.14 |
+| 437.FA17 | 9          | 4.63    | 4.08   | 3.86 | 4.38      | 4.15   | 4.12 |
+| 697.FA17 | 6          | 4.80    | 4.08   | 3.86 | 4.80      | 4.15   | 4.12 |
+| 438.SP18 | 7          | 4.71    | 4.08   | 3.94 | 4.71      | 4.17   | 4.23 |
 | 238.SP18 | 5          | 5.00    | 4.08   | 3.94 | 4.80      | 4.17   | 4.23 |
 | 697.FA18 | 21         | 4.42    | 4.06   | 3.82 | 5.00      | 4.18   | 4.21 |
 | 438.SP19 | 8          | 5.00    | 4.07   | 3.95 | 5.00      | 4.19   | 4.19 |
 | 638.SP19 | 8          | 4.75    | 4.07   | 3.95 | 4.88      | 4.19   | 4.19 |
+| 437.FA19 | 16         | 4.38    | 4.08   | 3.86 | 4.69      | 4.20   | 4.18 |
+| 637.FA19 | 27         | 4.11    | 4.08   | 3.86 | 4.65      | 4.20   | 4.18 |
+| 438.SP20 | 32         | 4.5     | NA     | NA   | 4.56      | NA     | NA   |
 | **Mean** | **14.5**   | **4.70**|**4.09**|**3.95**|**4.85** |**4.16**|**4.16**|
 
+Reviews for every course that Jovo has ever taught can be found [here](/files/VOGELSTEIN_JoshuaTeaching_Evaluation_Summary_2020_08_07.xlsx).
 
 ### ABET Student Outcomes
 
