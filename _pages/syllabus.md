@@ -18,18 +18,18 @@ The course is focused on contributing easy-to-use, well tested, well documented 
 
 The duration and major goals of each sprint is detailed below:
 
-- **Sprint 1 (fall semester until fall break)** is devoted to _self-understanding_. 
+- **Sprint 0 (fall semester until September 30, 2020)** is devoted to _self-understanding_. 
     - Pick an issue in your team's forked repo to work on.
     - Make an issue in the corresponding real repo detailing the changes you intend to make.
     - Make a semester-long plan / list of deliverables detailing how you will solve this issue.
     - Start making progress on you issue.
-- **Sprint 2 (fall break until the day of the NDD fall final)** is devoted to learning _basic data science skills_.  You will implement or fix some algorithm, or demonstrate its capabilities and limitations.
+- **Sprint 1 (fall break until the day of the NDD fall final)** is devoted to learning _basic data science skills_.  You will implement or fix some algorithm, or demonstrate its capabilities and limitations.
     - **Successfully merge your PR into our fork of a repo.** This means that the TAs must approve the code you have written (see [PR guidelines](./pr.md)). This process requires time and multiple iterations! Be prepared to submit your first draft of the PR at least 3 weeks before the final for NDD.
     - Submit your PR to the real repo.
-- **Sprint 3 (spring semester until spring break)** is devoted to _applying basic data science knowledge_.  
+- **Sprint 2 (spring semester until spring break)** is devoted to _applying basic data science knowledge_.  
     - PR merged into real repo.
     - AND (optionally) running your newly-developed methods on real data!
-- **Sprint 4 (spring break until the day of the NDD spring final)** is devoted to *technically communication* and knowledge transfer.
+- **Sprint 3 (spring break until the day of the NDD spring final)** is devoted to *technically communication* and knowledge transfer.
     - Manuscript submitted to arxiv detailing your contributions to the open-source scientific software ecosystem.
     - OR another PR merged into a real repo.
     
@@ -81,15 +81,14 @@ In general, it is expected that all students will be most excited about this cla
 #### Weekly Tasks
 Each week students will be graded on the degree of completion of their deliverables, typically including both a qualitative and quantitative result. After your presentations, instructors will provide detailed feedback on your slides, with instructions on how to improve them. Grades will be provided on the basis of your ability to complete the tasks you set out to perform, and update slides on the basis of other's input. In addition, slides should have research artifacts for each task (whether completed or not).
 
+Make sure your weekly tasks are [SMART goals](https://www.mindtools.com/pages/article/smart-goals.htm), and that all goals have a [Definition of Done (DoD)](https://www.agilealliance.org/glossary/definition-of-done).
+
 ### Open Source Projects
 The list of projects for the 2020-2021 academic year can be found [here](https://docs.google.com/document/d/1YioYSo9368g5irnmrVjUmprI8kllpaqn4Dq2hmNaJ4Y/edit?usp=sharing). The repos we typically contribute to include
 
-- [scipy](https://www.scipy.org/scipylib/index.html)
-- [sklearn](https://scikit-learn.org/stable/)
-- [networkx](https://networkx.github.io/)
-- [skimage](https://scikit-image.org/docs/dev/api/skimage.html)
-- [dipy](https://dipy.org/)
-- [mne](https://martinos.org/mne/stable/index.html)
+- [graspy](https://github.com/neurodata/graspy)
+- [brainlit](https://github.com/neurodata/brainlit)
+- [progressive-learning](https://github.com/neurodata/progressive-learning)
 
 
 ### Feedback
