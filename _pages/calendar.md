@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-## Semester 1 
+## Semester 1
 
 ### Sprint 0
 
@@ -13,7 +13,7 @@ author_profile: true
 
 1. Read [Code of Conduct](https://neurodata.io/about/agreements/#respect).
 2. Read [How to choose a project](https://bitsandbrains.io/2018/08/31/sig-and-feas.html).
-3. Read about [smart goals](https://www.mindtools.com/pages/article/smart-goals.html).
+3. Read about [smart goals](https://www.mindtools.com/pages/article/smart-goals.htm).
 4. Read [Figure checklist](https://bitsandbrains.io/2018/09/08/figures.html) and make a perfect figure in your slide.
 5. Read [Constituents of Decisions](https://bitsandbrains.io/2018/09/22/deciding-stuff.html). and [3 additional consituents for decisions under uncertainty](https://bitsandbrains.io/2018/09/23/probabilistic-decisions.html).
 6. Read [10 Simple Rules for Designing Learning Machines](https://bitsandbrains.io/2018/09/24/modeling-desiderata.html).
@@ -75,14 +75,6 @@ The deliverable for each team is to append to their google document the followin
 
 - An 8-page conference report with publication quality figures and 10+ references.
 - A notebook to reproduce each of the quantitative results from the report.
-- A 20-minute presentation presenting the motivation, challenge, action, and result of your work. 
+- A 20-minute presentation presenting the motivation, challenge, action, and result of your work.
 - A live demo during your presentation.
 - A link to your data derivatives deposited in an open access repository.
-
-
-
-
-
-
-
-
