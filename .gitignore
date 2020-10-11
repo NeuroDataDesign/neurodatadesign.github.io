@@ -1,2 +1,4 @@
 _site/
 
+# Remove Mac files
+.DS_Store
