@@ -64,7 +64,7 @@ Admittance to this course requires approval from the instructor, to ensure the s
 
 1. Be more excited about this course than any other academic endeavor for the year. Nobody is required to teach or take this course, and since so many people want to take it each year, preference is given to those that are most passionate about the material.
 2. In practice, people commonly spend up to 20 hrs per week in this class, or more.  It is often rated one of the most challenging courses, so please consider that when making your course schedule. Priority will be given to students that certainly have room to be successful in the course.
-3. Background in numerical programming is required. Prior experience with GitHub is highly encouraged.
+3. **Background in numerical programming is required.** Particularly, the more experience a student has in numerical programming, the better. Prior experience with GitHub is highly encouraged.
 4. See the [Join](./join.md) page for more information on how to get enrolled.
 
 
