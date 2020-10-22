@@ -76,8 +76,10 @@ Everyone taking the course is required to abide by the Neurodata [Code of Conduc
 This class communicates largely in Slack. Please join our [Slack workspace](http://spiralscience.slack.com/signup) at  to get involved. Regular updates are provided in Slack, and the instructors will assume you have received them. TA will answer questions from slack approximately within 48 hours.
 
 
-### External Help
-Jovo and TAs are typically available after class and through Slack to provide feedback/guidance as requested.
+### Extra Feedback/Guidance
+- We encourage students to come to class on Fridays for additional feedback.
+- On days when teams are not presenting, we encourage students to meet (either with or without their TA) and discuss their project.
+- TAs may be available outside of class for office hours.
 
 
 ### Grading
