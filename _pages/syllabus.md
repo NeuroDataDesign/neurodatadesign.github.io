@@ -23,6 +23,7 @@ The duration and major goals of each sprint is detailed below:
     - Make an issue in the corresponding real repo detailing the changes you intend to make.
     - Make a semester-long plan / list of deliverables detailing how you will solve this issue.
     - Start making progress on you issue.
+    - _Note:_ Sprint 0 is meant to be a little confusing! Fully understanding and scoping a yearlong project is hard. It's important to take this time with your team and instructors to synthesize as much background as you can.
 - **Sprint 1 (fall break until the day of the NDD fall final)** is devoted to learning _basic data science skills_.  You will implement or fix some algorithm, or demonstrate its capabilities and limitations.
     - **Successfully merge your PR into our fork of a repo.** This means that the TAs must approve the code you have written (see [PR guidelines](./pr.md)). This process requires time and multiple iterations! Be prepared to submit your first draft of the PR at least 3 weeks before the final for NDD.
     - Submit your PR to the real repo.
