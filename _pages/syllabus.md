@@ -11,7 +11,7 @@ author_profile: true
 If you feel your goals/desires don't fall under either category, please talk to us so we can see if something else would be feasible. 
 
 ### Course Summary
-Neuro Data Design (NDD) is a year-long project-based course where students work in teams of four to six. We offer two different levels: 4xx and 6xx. The 4xx is designed for undergraduates with background in engineering and data science and the 6xx is designed for more advanced undergraduates and graduate students. Teams are encouraged to include students at both levels, as each level brings a unique and valuable perspective. The goal of the course is to create an inspirational environment in which each of the students works on a team to build a data science product "soup to nuts", starting with ideation and ending with publication. Along the way, students learn skills that will serve them well in industry, academia, or government. To facilitate these goals, the course is divided into **Sprints**.
+Neuro Data Design (NDD) is a year-long project-based course where students work in teams of four to six. We offer two different levels: 4xx and 6xx. The 4xx is designed for undergraduates with background in engineering and data science and the 6xx is designed for more advanced undergraduates and graduate students. Teams are encouraged to include students at both levels, as each level brings a unique and valuable perspective. The goal of the course is to create an inspirational environment in which each of the students works on a team to build a data science product "soup to nuts", starting with ideation and ending with publication. **Specifically, we aim for every student in NDD to complete a research artifact (code package, data analysis, manuscript, publication) that they are responsible for by the end of the year.** Along the way, students learn skills that will serve them well in industry, academia, or government. To facilitate these goals, the course is divided into **Sprints**.
 
 ### Goals by Sprint
 The course is focused on contributing easy-to-use, well tested, well documented code to open source software repositories ([repos](https://en.wikipedia.org/wiki/Software_repository)). The instructors will provide a list of repos to contribute to and a list of issues that need tackling. We will [fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) the public version of these repos, and students will make [pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) (PRs) into those forks. After iterating with the instructors, students will submit their PRs to the public repos, and iterate with the developers to get their PRs merged. 
@@ -23,6 +23,7 @@ The duration and major goals of each sprint is detailed below:
     - Make an issue in the corresponding real repo detailing the changes you intend to make.
     - Make a semester-long plan / list of deliverables detailing how you will solve this issue.
     - Start making progress on you issue.
+    - _Note:_ Sprint 0 is meant to be a little confusing! Fully understanding and scoping a yearlong project is hard. It's important to take this time with your team and instructors to synthesize as much background as you can.
 - **Sprint 1 (fall break until the day of the NDD fall final)** is devoted to learning _basic data science skills_.  You will implement or fix some algorithm, or demonstrate its capabilities and limitations.
     - **Successfully merge your PR into our fork of a repo.** This means that the TAs must approve the code you have written (see [PR guidelines](./pr.md)). This process requires time and multiple iterations! Be prepared to submit your first draft of the PR at least 3 weeks before the final for NDD.
     - Submit your PR to the real repo.
@@ -37,9 +38,11 @@ The duration and major goals of each sprint is detailed below:
 Teams will be formed prior to joining the course. Students will rank projects in a public survey (meaning all students will be able to see the project preferences of their peers). Based on these results, students will **self-organize** into teams. Once a team has been finalized, I will approve all members to enroll in NDD.
 
 ### Weekly Structure
-We have class three times per week. The bulk of the classroom time, however, is spent with student presentations. Each week each student presents their progress from the previous week, and their plan for the next week. Feedback is provided in written form to each student for each presentation, and verbal feedback is provided whenever it seems generally useful for other students. Each team also meets at least once more per week to prepare their presentation, and work together. About once per week we provide a lecture on some relevant data science content, typically content not available otherwise online.
+We have class three times per week. The bulk of the classroom time, however, is spent with student presentations. Each week each student presents their progress from the previous week, and their plan for the next week. Please see [this slide deck](https://docs.google.com/presentation/d/1LpORAyqsxxsP15X318vv6EXcFDqemuSrZWoQeM-ttGE/edit?usp=sharing) for an example of what slides are expected to look like, along with written explanations of why these are good slides.
 
-This year, for Fall 2020, the teams will present on the following days:
+These presentations are specifically for instructors to provide students feedback on how students can improve. Presentations are not intended to be status updates or final reports --- they are meant to encourage iteration and progression to the correct goal. Feedback is provided in written form to each student for each presentation, and verbal feedback is provided whenever it seems generally useful for other students. Please note that the feedback we voice is intended for everyone. **Students are encouraged to take notes during presentations directly on the slides so that instructors/team/student are all on the same page.**
+
+Each team also meets at least once more per week to prepare their presentation, and work together. About once per week we provide a lecture on some relevant data science content, typically content not available otherwise online. This year, for Fall 2020, the teams will present on the following days:
 - Mondays: brainlit, graspy
 - Wednesdays: ndforest teams
 
@@ -63,7 +66,7 @@ Admittance to this course requires approval from the instructor, to ensure the s
 
 1. Be more excited about this course than any other academic endeavor for the year. Nobody is required to teach or take this course, and since so many people want to take it each year, preference is given to those that are most passionate about the material.
 2. In practice, people commonly spend up to 20 hrs per week in this class, or more.  It is often rated one of the most challenging courses, so please consider that when making your course schedule. Priority will be given to students that certainly have room to be successful in the course.
-3. Background in numerical programming is required. Prior experience with GitHub is highly encouraged.
+3. **Background in numerical programming is required.** Particularly, the more experience a student has in numerical programming, the better. Prior experience with GitHub is highly encouraged.
 4. See the [Join](./join.md) page for more information on how to get enrolled.
 
 
@@ -75,8 +78,10 @@ Everyone taking the course is required to abide by the Neurodata [Code of Conduc
 This class communicates largely in Slack. Please join our [Slack workspace](http://spiralscience.slack.com/signup) at  to get involved. Regular updates are provided in Slack, and the instructors will assume you have received them. TA will answer questions from slack approximately within 48 hours.
 
 
-### External Help
-Jovo and TAs are typically available after class and through Slack to provide feedback/guidance as requested.
+### Extra Feedback/Guidance
+- We encourage students to come to class on Fridays for additional feedback.
+- On days when teams are not presenting, we encourage students to meet (either with or without their TA) and discuss their project.
+- TAs may be available outside of class for office hours.
 
 
 ### Grading
