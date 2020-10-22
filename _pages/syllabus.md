@@ -38,9 +38,11 @@ The duration and major goals of each sprint is detailed below:
 Teams will be formed prior to joining the course. Students will rank projects in a public survey (meaning all students will be able to see the project preferences of their peers). Based on these results, students will **self-organize** into teams. Once a team has been finalized, I will approve all members to enroll in NDD.
 
 ### Weekly Structure
-We have class three times per week. The bulk of the classroom time, however, is spent with student presentations. Each week each student presents their progress from the previous week, and their plan for the next week. Feedback is provided in written form to each student for each presentation, and verbal feedback is provided whenever it seems generally useful for other students. Each team also meets at least once more per week to prepare their presentation, and work together. About once per week we provide a lecture on some relevant data science content, typically content not available otherwise online.
+We have class three times per week. The bulk of the classroom time, however, is spent with student presentations. Each week each student presents their progress from the previous week, and their plan for the next week.
 
-This year, for Fall 2020, the teams will present on the following days:
+These presentations are specifically for instructors to provide students feedback on how students can improve. Presentations are not intended to be status updates or final reports --- they are meant to encourage iteration and progression to the correct goal. Feedback is provided in written form to each student for each presentation, and verbal feedback is provided whenever it seems generally useful for other students. Please note that the feedback we voice is intended for everyone. **Students are encouraged to take notes during presentations directly on the slides so that instructors/team/student are all on the same page.**
+
+Each team also meets at least once more per week to prepare their presentation, and work together. About once per week we provide a lecture on some relevant data science content, typically content not available otherwise online. This year, for Fall 2020, the teams will present on the following days:
 - Mondays: brainlit, graspy
 - Wednesdays: ndforest teams
 
