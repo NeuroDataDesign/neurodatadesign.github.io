@@ -25,12 +25,12 @@ The duration and major goals of each sprint is detailed below:
     - Start making progress on you issue.
     - _Note:_ Sprint 0 is meant to be a little confusing! Fully understanding and scoping a yearlong project is hard. It's important to take this time with your team and instructors to synthesize as much background as you can.
 - **Sprint 1 (fall break until the day of the NDD fall final)** is devoted to learning _basic data science skills_.  You will implement or fix some algorithm, or demonstrate its capabilities and limitations.
-    - **Successfully merge your PR into our fork of a repo.** This means that the TAs must approve the code you have written (see [PR guidelines](./pr.md)). This process requires time and multiple iterations! Be prepared to submit your first draft of the PR at least 3 weeks before the final for NDD.
-    - Submit your PR to the real repo.
-- **Sprint 2 (spring semester until spring break)** is devoted to _applying basic data science knowledge_.  
-    - PR merged into real repo.
-    - AND (optionally) running your newly-developed methods on real data!
-- **Sprint 3 (spring break until the day of the NDD spring final)** is devoted to *technically communication* and knowledge transfer.
+    - **Successfully merge your PR.** This means that the TAs must approve the code you have written (see [PR guidelines](./pr.md)). This process requires time and multiple iterations! Be prepared to submit your first draft of the PR at least 3 weeks before the final for NDD.
+    - If you were working on the NDD fork of your repo, you should now submit to the real repo.
+- **Sprint 2 (spring semester until spring break)** is devoted to _applying basic data science knowledge_. You can do one or both of the following:
+    - Pick a new issue to work on and successfully merge, or
+    - Run your newly-developed methods on real data!
+- **Sprint 3 (spring break until the day of the NDD spring final)** is devoted to *technical communication* and knowledge transfer.
     - Manuscript submitted to arxiv detailing your contributions to the open-source scientific software ecosystem.
     - OR another PR merged into a real repo.
     
