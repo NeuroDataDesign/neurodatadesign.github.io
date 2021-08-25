@@ -16,9 +16,7 @@ To demonstrate your understanding of *Python* and *GitHub*, please do *one* of t
 
 3. **Join the [Slack](https://spiralscience.slack.com/signup) workspace.** Once you join the workspace, also make sure to join the **#ndd-21-22** channel. This is where we will discuss all course logistics and organize into teams for next year. School emails (**@jhu.edu**) will be automatically approved.
 
-4. **Review the [list of projects](https://docs.google.com/document/d/1YioYSo9368g5irnmrVjUmprI8kllpaqn4Dq2hmNaJ4Y/edit?usp=sharing).**
-
-5. **Submit the [application form](https://docs.google.com/forms/d/e/1FAIpQLScUUZyzke1GoNCEt-SUpiTU-CAmO1FEU1KAcrFCyILfI37NJw/viewform?usp=sf_link).**
+4. **Review the [list of projects](https://docs.google.com/document/d/1Y4uTjPCk2HavyasRr7FlVjK08o0AoTfH_nKHiT1D1pk/edit?usp=sharing).**
 
 ## Forming teams
 Students will independently form teams in the Slack workspace based on project interest.
