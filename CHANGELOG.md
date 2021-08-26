@@ -322,7 +322,7 @@
 - Removed Google Fonts and replaced with system fonts to improve performance (they can be [added back](https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/) if desired)
 - Greatly improved [theme documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
 - Increased the amount of sample posts, sample pages, and sample collections to throughly test the theme and edge-cases.
-- Moved all sample content and assets out of `master` to keep it as clean as possible for forking.
+- Moved all sample content and assets out of `main` to keep it as clean as possible for forking.
 - Added new layouts for `splash` pages, archives for [`jekyll-archives`](https://github.com/jekyll/jekyll-archives) if enabled, and [`compress.html`](https://github.com/penibelst/jekyll-compress-html) to improve performance.
 - Added taxonomy links to posts (tags and categories).
 - Added optional "reading time" meta data.

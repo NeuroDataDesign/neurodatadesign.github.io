@@ -4,27 +4,27 @@ permalink: /syllabus/
 author_profile: true
 ---
 
-### Goals for everyone in the course 
+### Goals for everyone in the course
 1. Make a pull request (PR) into a widely used open source repository
 2. Write a manuscript with your group
 
-If you feel your goals/desires don't fall under either category, please talk to us so we can see if something else would be feasible. 
+If you feel your goals/desires don't fall under either category, please talk to us so we can see if something else would be feasible.
 
 ### Course Summary
 Neuro Data Design (NDD) is a year-long project-based course where students work in teams of four to six. We offer two different levels: 4xx and 6xx. The 4xx is designed for undergraduates with background in engineering and data science and the 6xx is designed for more advanced undergraduates and graduate students. Teams are encouraged to include students at both levels, as each level brings a unique and valuable perspective. The goal of the course is to create an inspirational environment in which each of the students works on a team to build a data science product "soup to nuts", starting with ideation and ending with publication. **Specifically, we aim for every student in NDD to complete a research artifact (code package, data analysis, manuscript, publication) that they are responsible for by the end of the year.** Along the way, students learn skills that will serve them well in industry, academia, or government. To facilitate these goals, the course is divided into **Sprints**.
 
 ### Goals by Sprint
-The course is focused on contributing easy-to-use, well tested, well documented code to open source software repositories ([repos](https://en.wikipedia.org/wiki/Software_repository)). The instructors will provide a list of repos to contribute to and a list of issues that need tackling. We will [fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) the public version of these repos, and students will make [pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) (PRs) into those forks. After iterating with the instructors, students will submit their PRs to the public repos, and iterate with the developers to get their PRs merged. 
+The course is focused on contributing easy-to-use, well tested, well documented code to open source software repositories ([repos](https://en.wikipedia.org/wiki/Software_repository)). The instructors will provide a list of repos to contribute to and a list of issues that need tackling. We will [fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) the public version of these repos, and students will make [pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) (PRs) into those forks. After iterating with the instructors, students will submit their PRs to the public repos, and iterate with the developers to get their PRs merged.
 
 The duration and major goals of each sprint is detailed below:
 
-- **Sprint 0 (fall semester until September 30, 2020)** is devoted to _self-understanding_. 
+- **Sprint 0 (fall semester until October 1, 2021)** is devoted to _self-understanding_.
     - Pick an issue in your team's forked repo to work on.
     - Make an issue in the corresponding real repo detailing the changes you intend to make.
     - Make a semester-long plan / list of deliverables detailing how you will solve this issue.
     - Start making progress on you issue.
     - _Note:_ Sprint 0 is meant to be a little confusing! Fully understanding and scoping a yearlong project is hard. It's important to take this time with your team and instructors to synthesize as much background as you can.
-- **Sprint 1 (fall break until the day of the NDD fall final)** is devoted to learning _basic data science skills_.  You will implement or fix some algorithm, or demonstrate its capabilities and limitations.
+- **Sprint 1 (October until the day of the NDD fall final)** is devoted to learning _basic data science skills_.  You will implement or fix some algorithm, or demonstrate its capabilities and limitations.
     - **Successfully merge your PR.** This means that the TAs must approve the code you have written (see [PR guidelines](./pr.md)). This process requires time and multiple iterations! Be prepared to submit your first draft of the PR at least 3 weeks before the final for NDD.
     - If you were working on the NDD fork of your repo, you should now submit to the real repo.
 - **Sprint 2 (spring semester until spring break)** is devoted to _applying basic data science knowledge_. You can do one or both of the following:
@@ -33,12 +33,12 @@ The duration and major goals of each sprint is detailed below:
 - **Sprint 3 (spring break until the day of the NDD spring final)** is devoted to *technical communication* and knowledge transfer.
     - Manuscript submitted to arxiv detailing your contributions to the open-source scientific software ecosystem.
     - OR another PR merged into a real repo.
-    
+
 ### Forming Teams
 Teams will be formed prior to joining the course. Students will rank projects in a public survey (meaning all students will be able to see the project preferences of their peers). Based on these results, students will **self-organize** into teams. Once a team has been finalized, I will approve all members to enroll in NDD.
 
 ### Weekly Structure
-We have class three times per week. The bulk of the classroom time, however, is spent with student presentations. Each week each student presents their progress from the previous week, and their plan for the next week. Please see [this slide deck](https://docs.google.com/presentation/d/1LpORAyqsxxsP15X318vv6EXcFDqemuSrZWoQeM-ttGE/edit?usp=sharing) for an example of what slides are expected to look like, along with written explanations of why these are good slides.
+We have class two times per week. The bulk of the classroom time, however, is spent with student presentations. Each week each student presents their progress from the previous week, and their plan for the next week. Please see [this slide deck](https://docs.google.com/presentation/d/1LpORAyqsxxsP15X318vv6EXcFDqemuSrZWoQeM-ttGE/edit?usp=sharing) for an example of what slides are expected to look like, along with written explanations of why these are good slides.
 
 These presentations are specifically for instructors to provide students feedback on how students can improve. Presentations are not intended to be status updates or final reports --- they are meant to encourage iteration and progression to the correct goal. Feedback is provided in written form to each student for each presentation, and verbal feedback is provided whenever it seems generally useful for other students. Please note that the feedback we voice is intended for everyone. **Students are encouraged to take notes during presentations directly on the slides so that instructors/team/student are all on the same page.**
 
@@ -106,10 +106,10 @@ Steven Covey, author of "Seven Habits", states that the 7th habit is "sharpening
 ### Course reviews
 So far, the students have determined that the class is quite good, with an average overall quality of 4.71, as compared to the department’s average of 3.95, and the schools average of 4.09 (see Table 1 for details).  This is despite the fact that course is also typically ranked one of the most difficult and time-consuming courses.
 
-Quantitative teaching evaluations for all NeuroData Design courses is shown below. Numbers represent "overall quality" of the course. Scores out of 5 (4 = “good”; 5 = “excellent”). Response rates: All but 2 students ever responded. The mean number of students is per semester (ignoring winter session and joining across multiple course levels if they met during the same time.  Note that course evaluations for several course numbers are not available online, including 638.SP18 and 497.FA18. 
+Quantitative teaching evaluations for all NeuroData Design courses is shown below. Numbers represent "overall quality" of the course. Scores out of 5 (4 = “good”; 5 = “excellent”). Response rates: All but 2 students ever responded. The mean number of students is per semester (ignoring winter session and joining across multiple course levels if they met during the same time.  Note that course evaluations for several course numbers are not available online, including 638.SP18 and 497.FA18.
 
 
-| Semester | # Students | Quality (NDD) | Quality (Dept) | Quality (School) | Challenge (NDD) | Challenge (Dept) | Challenge (School) | 
+| Semester | # Students | Quality (NDD) | Quality (Dept) | Quality (School) | Challenge (NDD) | Challenge (Dept) | Challenge (School) |
 |----------|------------|---------|--------|------|-----------|--------|------|
 | 437.FA16 | 11         | 4.73    | 4.09   | 3.84 | 4.91      | 4.16   | 4.15 |
 | 574.WI17 | 6          | 5.00    | 4.21   | 4.31 | 5.00      | 4.10   | 4.13 |
