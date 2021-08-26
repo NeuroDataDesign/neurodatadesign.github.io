@@ -19,8 +19,6 @@ To demonstrate your understanding of *Python* and *GitHub*, please do *one* of t
 4. **Review the [list of projects](https://docs.google.com/document/d/1Y4uTjPCk2HavyasRr7FlVjK08o0AoTfH_nKHiT1D1pk/edit?usp=sharing).**
 
 ## Forming teams
-Students will independently form teams in the Slack workspace based on project interest.
+Students will independently form teams in the Slack workspace & class sessions based on project interest.
 
-**Once a team has been finalized, we will enroll all members together (not before!)**
-
-*Note: the reason we require teams to form **prior** to class is that, in previous years, when people applied and failed to organize enough to even form a team, they ended up doing poorly in the class.*
+Teams are not necessarily for focusing on the same issue, but teammates will be expected to provide **support and feedback**.
