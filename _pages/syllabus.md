@@ -42,9 +42,9 @@ We have class two times per week. The bulk of the classroom time, however, is sp
 
 These presentations are specifically for instructors to provide students feedback on how students can improve. Presentations are not intended to be status updates or final reports --- they are meant to encourage iteration and progression to the correct goal. Feedback is provided in written form to each student for each presentation, and verbal feedback is provided whenever it seems generally useful for other students. Please note that the feedback we voice is intended for everyone. **Students are encouraged to take notes during presentations directly on the slides so that instructors/team/student are all on the same page.**
 
-Each team also meets at least once more per week to prepare their presentation, and work together. About once per week we provide a lecture on some relevant data science content, typically content not available otherwise online. This year, for Fall 2020, the teams will present on the following days:
-- Mondays: brainlit, graspy
-- Wednesdays: ndforest teams
+Each team also meets at least once more per week to prepare their presentation, and work together. About once per week we provide a lecture on some relevant data science content, typically content not available otherwise online. This year, for Fall 2021, the teams will present on the following days:
+- Tuesdays: rf-dn
+- Thursdays: hyppo, proglearn
 
 ### Motivation
 This course is based on my experience as an academic, and entrepreneur, an advisor, and an instructor. It is designed to be the best class you'll ever take. You will learn (by doing and getting feedback) the skills that I have found particularly useful in my endeavors. It will be organized into weekly sprints. Weekly progress will be reported documenting goals towards your team sprints, with sprint demo's to happen at the close of each sprint. Each team will be graded jointly on the basis of meeting the sprint goals, as well as providing clear and concise weekly progress reports.
@@ -71,7 +71,7 @@ Admittance to this course requires approval from the instructor, to ensure the s
 
 
 ### Code of Conduct
-Everyone taking the course is required to abide by the Neurodata [Code of Conduct](https://neurodata.io/about/agreements/#respect). If you have questions or suggestions for making the code of conduct better, let us know.
+Everyone taking the course is required to abide by the NeuroData [Code of Conduct](https://neurodata.io/about/agreements/#respect). If you have questions or suggestions for making the code of conduct better, let us know.
 
 
 ### Communication
@@ -79,7 +79,6 @@ This class communicates largely in Slack. Please join our [Slack workspace](http
 
 
 ### Extra Feedback/Guidance
-- We encourage students to come to class on Fridays for additional feedback.
 - On days when teams are not presenting, we encourage students to meet (either with or without their TA) and discuss their project.
 - TAs may be available outside of class for office hours.
 
@@ -93,11 +92,12 @@ Each week students will be graded on the degree of completion of their deliverab
 Make sure your weekly tasks are [SMART goals](https://www.mindtools.com/pages/article/smart-goals.htm), and that all goals have a [Definition of Done (DoD)](https://www.agilealliance.org/glossary/definition-of-done).
 
 ### Open Source Projects
-The list of projects for the 2020-2021 academic year can be found [here](https://docs.google.com/document/d/1YioYSo9368g5irnmrVjUmprI8kllpaqn4Dq2hmNaJ4Y/edit?usp=sharing). The repos we typically contribute to include
+The list of projects for the 2021-2022 academic year can be found [here](https://docs.google.com/document/d/1Y4uTjPCk2HavyasRr7FlVjK08o0AoTfH_nKHiT1D1pk/edit?usp=sharing). The repos we typically contribute to include
 
-- [graspy](https://github.com/neurodata/graspy)
-- [brainlit](https://github.com/neurodata/brainlit)
-- [progressive-learning](https://github.com/neurodata/progressive-learning)
+- [hyppo](https://github.com/neurodata/hyppo)
+- [kfg](https://github.com/neurodata/kdg)
+- [proglearn](https://github.com/neurodata/ProgLearn)
+- [rf-dn](https://github.com/neurodata/rf-dn-paper)
 
 
 ### Feedback
@@ -106,7 +106,7 @@ Steven Covey, author of "Seven Habits", states that the 7th habit is "sharpening
 ### Course reviews
 So far, the students have determined that the class is quite good, with an average overall quality of 4.71, as compared to the department’s average of 3.95, and the schools average of 4.09 (see Table 1 for details).  This is despite the fact that course is also typically ranked one of the most difficult and time-consuming courses.
 
-Quantitative teaching evaluations for all NeuroData Design courses is shown below. Numbers represent "overall quality" of the course. Scores out of 5 (4 = “good”; 5 = “excellent”). Response rates: All but 2 students ever responded. The mean number of students is per semester (ignoring winter session and joining across multiple course levels if they met during the same time.  Note that course evaluations for several course numbers are not available online, including 638.SP18 and 497.FA18.
+Quantitative teaching evaluations for all Neuro Data Design courses is shown below. Numbers represent "overall quality" of the course. Scores out of 5 (4 = “good”; 5 = “excellent”). Response rates: All but 2 students ever responded. The mean number of students is per semester (ignoring winter session and joining across multiple course levels if they met during the same time.  Note that course evaluations for several course numbers are not available online, including 638.SP18 and 497.FA18.
 
 
 | Semester | # Students | Quality (NDD) | Quality (Dept) | Quality (School) | Challenge (NDD) | Challenge (Dept) | Challenge (School) |
