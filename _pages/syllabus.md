@@ -18,7 +18,7 @@ The course is focused on contributing easy-to-use, well tested, well documented 
 
 The duration and major goals of each sprint is detailed below:
 
-- **Sprint 0 (fall semester until October 1, 2021)** is devoted to _self-understanding_.
+- **Sprint 0 (fall semester until October 1, 2024)** is devoted to _self-understanding_.
     - Pick an issue in your team's forked repo to work on.
     - Make an issue in the corresponding real repo detailing the changes you intend to make.
     - Make a semester-long plan / list of deliverables detailing how you will solve this issue.
@@ -42,9 +42,9 @@ We have class two times per week. The bulk of the classroom time, however, is sp
 
 These presentations are specifically for instructors to provide students feedback on how students can improve. Presentations are not intended to be status updates or final reports --- they are meant to encourage iteration and progression to the correct goal. Feedback is provided in written form to each student for each presentation, and verbal feedback is provided whenever it seems generally useful for other students. Please note that the feedback we voice is intended for everyone. **Students are encouraged to take notes during presentations directly on the slides so that instructors/team/student are all on the same page.**
 
-Each team also meets at least once more per week to prepare their presentation, and work together. About once per week we provide a lecture on some relevant data science content, typically content not available otherwise online. This year, for Fall 2021, the teams will present on the following days:
-- Tuesdays: rf-dn
-- Thursdays: hyppo, proglearn
+Each team also meets at least once more per week to prepare their presentation, and work together. About once per week we provide a lecture on some relevant data science content, typically content not available otherwise online. This year, for Fall 2024, the teams will present on the following days:
+- Tuesdays: TBD
+- Thursdays: TBD
 
 ### Motivation
 This course is based on my experience as an academic, and entrepreneur, an advisor, and an instructor. It is designed to be the best class you'll ever take. You will learn (by doing and getting feedback) the skills that I have found particularly useful in my endeavors. It will be organized into weekly sprints. Weekly progress will be reported documenting goals towards your team sprints, with sprint demo's to happen at the close of each sprint. Each team will be graded jointly on the basis of meeting the sprint goals, as well as providing clear and concise weekly progress reports.
@@ -71,11 +71,11 @@ Admittance to this course requires approval from the instructor, to ensure the s
 
 
 ### Code of Conduct
-Everyone taking the course is required to abide by the NeuroData [Code of Conduct](https://neurodata.io/about/agreements/#respect). If you have questions or suggestions for making the code of conduct better, let us know.
+Everyone taking the course is required to abide by the NeuroData [Code of Conduct](https://neurodata.io/about/codeofconduct/). If you have questions or suggestions for making the code of conduct better, let us know.
 
 
 ### Communication
-This class communicates largely in Slack. Please join our [Slack workspace](http://spiralscience.slack.com/signup) at  to get involved. Regular updates are provided in Slack, and the instructors will assume you have received them. TA will answer questions from slack approximately within 48 hours.
+This class communicates largely in Slack. Please join our [Slack workspace](https://join.slack.com/t/biomedicaldat-kmo4757/shared_invite/zt-2pafa7ryc-uj1luKn7J3WBkyxvrZovrQ) at  to get involved. Regular updates are provided in Slack, and the instructors will assume you have received them. TA will answer questions from slack approximately within 48 hours.
 
 
 ### Extra Feedback/Guidance
@@ -92,7 +92,7 @@ Each week students will be graded on the degree of completion of their deliverab
 Make sure your weekly tasks are [SMART goals](https://www.mindtools.com/pages/article/smart-goals.htm), and that all goals have a [Definition of Done (DoD)](https://www.agilealliance.org/glossary/definition-of-done).
 
 ### Open Source Projects
-The list of projects for the 2021-2022 academic year can be found [here](https://docs.google.com/document/d/1Y4uTjPCk2HavyasRr7FlVjK08o0AoTfH_nKHiT1D1pk/edit?usp=sharing). The repos we typically contribute to include
+The list of projects for the 2024-2025 academic year can be found [here](https://docs.google.com/document/d/1Y4uTjPCk2HavyasRr7FlVjK08o0AoTfH_nKHiT1D1pk/edit?usp=sharing). The repos we typically contribute to include
 
 - [hyppo](https://github.com/neurodata/hyppo)
 - [kfg](https://github.com/neurodata/kdg)
@@ -129,16 +129,14 @@ Quantitative teaching evaluations for all Biomedical Data Design courses is show
 Reviews for every course that Jovo has ever taught can be found [here](/files/VOGELSTEIN_JoshuaTeaching_Evaluation_Summary_2020_08_07.xlsx).
 
 ### ABET Student Outcomes
+- (SO1) an ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.
+- (SO2) an ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.
+- (SO3) an ability to communicate effectively with a range of audiences.
+- (SO5) an ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.
+- (SO6) an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.
+- (SO7) an ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
 
-- (a1) Apply knowledge of advanced mathematics (calculus, differential equations, linear algebra, statistics) to problems at the interface of engineering, biology and medicine
-- (a5) Mathematically model and simulate biological systems using computers
-- (b1) Formulate hypothesis for experiments, including those on living systems
-- (b4) Display, describe, summarize and interpret experimental results in a lab report
-- (c1) Identify a desired need and define the biomedical engineering problem to be solved
-- (c2) Determine the constraints to the problem and assess the successful likelihood for different approaches
-- (d1) Communicate opinions, viewpoints and expertise with other team members
-- (d2) Understand team goals and assume and fulfill individual responsibilities within the team
-- (e3) Solve problem using experimental, mathematical and/or computational tools
-- (g1) Synthesize, summarize and explain technical content in a written report
-- (g2) Synthesize, summarize and explain technical content in an oral presentation
-- (k1) Gain proficiency in computer simulations and mathematical analysis tools
+### JHU Foundational Abilities
+- (FA1) Students should recognize the importance of language and have a command of it as readers, writers, and speakers.
+- (FA2) Students should develop facility with scientific, numerical, and algorithmic reasoning and be able to use computational and analytical methods.
+- (FA6) Students should be able to independently conceptualize and complete large-scale, consequential projects.
