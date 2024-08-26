@@ -11,7 +11,7 @@ author_profile: true
 
 #### Reading assignments for Sprint 0
 
-1. Read [Code of Conduct](https://neurodata.io/about/agreements/#respect).
+1. Read [Code of Conduct](https://neurodata.io/about/codeofconduct/).
 2. Read [How to choose a project](https://bitsandbrains.io/2018/08/31/sig-and-feas.html).
 3. Read about [smart goals](https://www.mindtools.com/pages/article/smart-goals.htm).
 4. Read [Figure checklist](https://bitsandbrains.io/2018/09/08/figures.html) and make a perfect figure in your slide.
