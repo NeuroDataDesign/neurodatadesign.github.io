@@ -11,7 +11,7 @@ If you would like to take Biomedical Data Design Fall 2024, please follow all of
 
 2. **Consider the prerequisites.** Programming is an essential skill that will be required of everyone. Specifically, students will extensively use *Python* and *GitHub*. This course will move quickly into developing data science tools and the instructors will not be giving extensive instruction on programming. We expect students to have these skills before joining.<br/><br/>
 To demonstrate your understanding of *Python* and *GitHub*, please do *one* of the following:
-    1. Send us proof of completion for these courses: [First Day on GitHub](https://lab.github.com/githubtraining/paths/first-day-on-github) and [DataCamp Python Course](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+    1. Send us proof of completion for these courses: [First Day on GitHub](https://skills.github.com/#first-day-on-github) and [DataCamp Python Course](https://www.datacamp.com/courses/intro-to-python-for-data-science)
     2. Send us a link one of your GitHub repositories where you use Python. Make sure the repository demonstrates understanding commensurate with completion of the courses above.
 
 3. **Join the [Slack](https://join.slack.com/t/biomedicaldat-kmo4757/shared_invite/zt-2pafa7ryc-uj1luKn7J3WBkyxvrZovrQ) workspace. channel. This is where we will discuss all course logistics and organize into teams for next year. School emails (**@jhu.edu**) will be automatically approved.
