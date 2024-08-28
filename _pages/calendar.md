@@ -13,7 +13,7 @@ author_profile: true
 
 1. Read [Code of Conduct](https://neurodata.io/about/codeofconduct/).
 2. Read [How to choose a project](https://bitsandbrains.io/2018/08/31/sig-and-feas.html).
-3. Read about [smart goals](https://www.mindtools.com/pages/article/smart-goals.htm).
+3. Read about [smart goals](https://www.mindtools.com/a4wo118/smart-goals).
 4. Read [Heilmeier Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism).
 5. Read [Figure checklist](https://bitsandbrains.io/2018/09/08/figures.html) and make a perfect figure in your slide.
 6. Read [Constituents of Decisions](https://bitsandbrains.io/2018/09/22/deciding-stuff.html). and [3 additional consituents for decisions under uncertainty](https://bitsandbrains.io/2018/09/23/probabilistic-decisions.html).
