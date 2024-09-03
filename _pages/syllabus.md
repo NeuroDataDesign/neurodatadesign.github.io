@@ -135,8 +135,8 @@ Reviews for every course that Jovo has ever taught can be found [here](/files/VO
 - (SO5) an ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.
 - (SO6) an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.
 - (SO7) an ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
-
+<!--
 ### JHU Foundational Abilities
 - (FA1) Students should recognize the importance of language and have a command of it as readers, writers, and speakers.
 - (FA2) Students should develop facility with scientific, numerical, and algorithmic reasoning and be able to use computational and analytical methods.
-- (FA6) Students should be able to independently conceptualize and complete large-scale, consequential projects.
+- (FA6) Students should be able to independently conceptualize and complete large-scale, consequential projects. -->
