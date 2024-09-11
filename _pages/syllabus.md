@@ -14,25 +14,19 @@ If you feel your goals/desires don't fall under either category, please talk to 
 Biomedical Data Design (BDD) is a year-long project-based course where students work in teams of four to six. We offer two different levels: 4xx and 6xx. The 4xx is designed for undergraduates with background in engineering and data science and the 6xx is designed for more advanced undergraduates and graduate students. Teams are encouraged to include students at both levels, as each level brings a unique and valuable perspective. The goal of the course is to create an inspirational environment in which each of the students works on a team to build a data science product "soup to nuts", starting with ideation and ending with publication. **Specifically, we aim for every student in BDD to complete a research artifact (code package, data analysis, manuscript, publication) that they are responsible for by the end of the year.** Along the way, students learn skills that will serve them well in industry, academia, or government. To facilitate these goals, the course is divided into **Sprints**.
 
 ### Goals by Sprint
-The course is focused on contributing easy-to-use, well tested, well documented code to open source software repositories ([repos](https://en.wikipedia.org/wiki/Software_repository)). The instructors will provide a list of repos to contribute to and a list of issues that need tackling. We will [fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) the public version of these repos, and students will make [pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) (PRs) into those forks. After iterating with the instructors, students will submit their PRs to the public repos, and iterate with the developers to get their PRs merged.
-
 The duration and major goals of each sprint is detailed below:
-
-- **Sprint 0 (fall semester until October 1, 2024)** is devoted to _self-understanding_.
-    - Pick an issue in your team's forked repo to work on.
-    - Make an issue in the corresponding real repo detailing the changes you intend to make.
-    - Make a semester-long plan / list of deliverables detailing how you will solve this issue.
-    - Start making progress on you issue.
-    - _Note:_ Sprint 0 is meant to be a little confusing! Fully understanding and scoping a yearlong project is hard. It's important to take this time with your team and instructors to synthesize as much background as you can.
-- **Sprint 1 (October until the day of the BDD fall final)** is devoted to learning _basic data science skills_.  You will implement or fix some algorithm, or demonstrate its capabilities and limitations.
-    - **Successfully merge your PR.** This means that the TAs must approve the code you have written (see [PR guidelines](./pr.md)). This process requires time and multiple iterations! Be prepared to submit your first draft of the PR at least 3 weeks before the final for BDD.
-    - If you were working on the BDD fork of your repo, you should now submit to the real repo.
-- **Sprint 2 (spring semester until spring break)** is devoted to _applying basic data science knowledge_. You can do one or both of the following:
-    - Pick a new issue to work on and successfully merge, or
-    - Run your newly-developed methods on real data!
-- **Sprint 3 (spring break until the day of the BDD spring final)** is devoted to *technical communication* and knowledge transfer.
-    - Manuscript submitted to arxiv detailing your contributions to the open-source scientific software ecosystem.
-    - OR another PR merged into a real repo.
+- **Semester 1**
+    - **Sprint 0**
+        - Pick a biomedical data science problem
+        - Describe how you will address problem according to *Heilmeier Catechism* and make plan a list of deliverables.
+        - _Note:_ Sprint 0 is meant to be a little confusing! Fully understanding and scoping a yearlong project is hard. It's important to take this time with your team and instructors to synthesize as much background as you can.
+    - **Sprint 1**
+        - Replicate numerical results previously published solutions
+- **Semester 2**
+    - **Sprint 2**
+        - Develop novel solution to address problem
+    - **Sprint 3**
+        - Technical communication* and knowledge transfer: Manuscript submitted to arxiv detailing your contributions.
 
 ### Forming Teams
 Teams will be formed prior to joining the course. Students will rank projects in a public survey (meaning all students will be able to see the project preferences of their peers). Based on these results, students will **self-organize** into teams. Once a team has been finalized, I will approve all members to enroll in BDD.
@@ -92,7 +86,7 @@ Each week students will be graded on the degree of completion of their deliverab
 Make sure your weekly tasks are [SMART goals](https://www.mindtools.com/pages/article/smart-goals.htm), and that all goals have a [Definition of Done (DoD)](https://www.agilealliance.org/glossary/definition-of-done).
 
 ### Open Source Projects
-The list of projects for the 2024-2025 academic year can be found [here](https://docs.google.com/document/d/1Y4uTjPCk2HavyasRr7FlVjK08o0AoTfH_nKHiT1D1pk/edit?usp=sharing). The repos we typically contribute to include
+The list of projects for previous academic years can be found [here](https://docs.google.com/document/d/1Y4uTjPCk2HavyasRr7FlVjK08o0AoTfH_nKHiT1D1pk/edit?usp=sharing). The repos we typically contribute to include
 
 - [hyppo](https://github.com/neurodata/hyppo)
 - [kfg](https://github.com/neurodata/kdg)
