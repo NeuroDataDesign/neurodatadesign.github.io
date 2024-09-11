@@ -4,12 +4,6 @@ permalink: /syllabus/
 author_profile: true
 ---
 
-### Goals for everyone in the course
-1. Make a pull request (PR) into a widely used open source repository
-2. Write a manuscript with your group
-
-If you feel your goals/desires don't fall under either category, please talk to us so we can see if something else would be feasible.
-
 ### Course Summary
 Biomedical Data Design (BDD) is a year-long project-based course where students work in teams of four to six. We offer two different levels: 4xx and 6xx. The 4xx is designed for undergraduates with background in engineering and data science and the 6xx is designed for more advanced undergraduates and graduate students. Teams are encouraged to include students at both levels, as each level brings a unique and valuable perspective. The goal of the course is to create an inspirational environment in which each of the students works on a team to build a data science product "soup to nuts", starting with ideation and ending with publication. **Specifically, we aim for every student in BDD to complete a research artifact (code package, data analysis, manuscript, publication) that they are responsible for by the end of the year.** Along the way, students learn skills that will serve them well in industry, academia, or government. To facilitate these goals, the course is divided into **Sprints**.
 
