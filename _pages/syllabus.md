@@ -26,7 +26,7 @@ The duration and major goals of each sprint is detailed below:
     - **Sprint 2**
         - Develop novel solution to address problem
     - **Sprint 3**
-        - Technical communication* and knowledge transfer: Manuscript submitted to arxiv detailing your contributions.
+        - Technical communication and knowledge transfer: Manuscript submitted to arxiv detailing your contributions.
 
 ### Forming Teams
 Teams will be formed prior to joining the course. Students will rank projects in a public survey (meaning all students will be able to see the project preferences of their peers). Based on these results, students will **self-organize** into teams. Once a team has been finalized, I will approve all members to enroll in BDD.
