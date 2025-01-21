@@ -34,7 +34,7 @@ Each team also meets at least once more per week to prepare their presentation, 
 - Tuesdays: TBD
 - Thursdays: TBD
 
-For Spring 2025, for each week, every team is required to present on Tuesdays. **In-person presentation on Tuesdays is mandatory and will impact your grade.** On Thursdays (1:30–3:30), all teams will meet with TAs to review and update their slides according to the instructors' feedback from Tuesday’s presentations. Teams’ Presentation Time Slots (Tuesdays):
+For Spring 2025, for each week, every student on each team is required to present on Tuesdays. **In-person presentation on Tuesdays is mandatory and will impact your grade.** On Thursdays (1:30–3:30), all teams will meet with TAs to review and update their slides according to the instructors' feedback from Tuesday’s presentations. Teams’ Presentation Time Slots (Tuesdays):
 - 1:30 - 1:55
 - 1:55 - 2:20
 - 2:20 - 2:45
