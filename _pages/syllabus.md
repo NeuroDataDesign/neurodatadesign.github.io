@@ -34,6 +34,14 @@ Each team also meets at least once more per week to prepare their presentation, 
 - Tuesdays: TBD
 - Thursdays: TBD
 
+For Spring 2025, for each week, every team is required to present on Tuesdays. **In-person presentation on Tuesdays is mandatory and will impact your grade.** On Thursdays (1:30–3:30), all teams will meet with TAs to review and update their slides according to the instructors' feedback from Tuesday’s presentations. Teams’ Presentation Time Slots (Tuesdays):
+- 1:30 - 1:55
+- 1:55 - 2:20
+- 2:20 - 2:45
+- 2:45 - 3:10
+- 3:10 - 3:35
+- 3:35 - 4:00
+
 ### Motivation
 This course is based on my experience as an academic, and entrepreneur, an advisor, and an instructor. It is designed to be the best class you'll ever take. You will learn (by doing and getting feedback) the skills that I have found particularly useful in my endeavors. It will be organized into weekly sprints. Weekly progress will be reported documenting goals towards your team sprints, with sprint demo's to happen at the close of each sprint. Each team will be graded jointly on the basis of meeting the sprint goals, as well as providing clear and concise weekly progress reports.
 
@@ -75,7 +83,7 @@ This class communicates largely in Slack. Please join our [Slack workspace](http
 In general, it is expected that all students will be most excited about this class, and therefore invest a minimum of 12 hours of effort per week in the fall and spring. You should expect an A only if you address the weekly feedback from PIs and TAs and finish the DoD of the semester. Anybody not receiving an A in the first semester will not be invited back for the second semester.
 
 #### Weekly Tasks
-Each week students will be graded on the degree of completion of their deliverables, typically including both a qualitative and quantitative result. After your presentations, instructors will provide detailed feedback on your slides, with instructions on how to improve them. Grades will be provided on the basis of your ability to complete the tasks you set out to perform, and update slides on the basis of other's input. In addition, slides should have research artifacts for each task (whether completed or not).
+Each week students will be graded on the degree of completion of their deliverables, typically including both a qualitative and quantitative result and attendance at every Tuesday presentation session. After your presentations, instructors will provide detailed feedback on your slides, with instructions on how to improve them. Grades will be provided on the basis of your ability to complete the tasks you set out to perform, and update slides on the basis of other's input. In addition, slides should have research artifacts for each task (whether completed or not).
 
 Make sure your weekly tasks are [SMART goals](https://www.mindtools.com/pages/article/smart-goals.htm), and that all goals have a [Definition of Done (DoD)](https://www.agilealliance.org/glossary/definition-of-done).
 
