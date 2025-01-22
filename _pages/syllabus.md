@@ -80,7 +80,7 @@ This class communicates largely in Slack. Please join our [Slack workspace](http
 
 
 ### Grading
-In general, it is expected that all students will be most excited about this class, and therefore invest a minimum of 12 hours of effort per week in the fall and spring. You should expect an A only if you address the weekly feedback from PIs and TAs and finish the DoD of the semester. Anybody not receiving an A in the first semester will not be invited back for the second semester.
+In general, it is expected that all students will be most excited about this class, and therefore invest a minimum of 12 hours of effort per week in the fall and spring. You should expect an A only if you address the weekly feedback from PIs and TAs and finish the DoD of the semester. Anybody not receiving an A in the first semester will not be invited back for the second semester. Each student will be graded individually based on their weekly contributions to the team.
 
 #### Weekly Tasks
 Each week students will be graded on the degree of completion of their deliverables, typically including both a qualitative and quantitative result and attendance at every Tuesday presentation session. After your presentations, instructors will provide detailed feedback on your slides, with instructions on how to improve them. Grades will be provided on the basis of your ability to complete the tasks you set out to perform, and update slides on the basis of other's input. In addition, slides should have research artifacts for each task (whether completed or not).
